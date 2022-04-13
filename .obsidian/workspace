@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "5bf5404cc24d13d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a6af9ee8345a487",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Social studies/Exploring citizenship and governance/Constitution.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c4a306d976661f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "595549bdac28af47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fe790986843bdb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "433696ca7ac84190",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1fe2ca716346333a",
+    "type": "split",
+    "children": [
+      {
+        "id": "09249b20efde3f0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8ddf29dbc4c7d8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Social studies/Exploring citizenship and governance/Constitution.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9a6af9ee8345a487",
+  "lastOpenFiles": [
+    "Social studies/Exploring citizenship and governance/Constitution.md",
+    "Social studies/Exploring citizenship and governance/Citizenship.md",
+    "Social studies/Exploring citizenship and governance/Democracy.md",
+    "Social studies/Exploring citizenship and governance/Ways to obtain citizenship.md",
+    "Biology/Cells/Specialised cells.md",
+    "Geography/Tourism/Gateway 1/Types of tourism.md",
+    "Biology/Movement of substances/Diffusion.md",
+    "Biology/Movement of substances/Osmosis.md",
+    "Biology/Study.md"
+  ]
+}
