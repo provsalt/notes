@@ -1,8 +1,8 @@
 # Osmosis
 #### Definition
-Osmosis is the net movement of ===water molecules=== from a region of higher water potential to a region of lower water potential through  a ===partially permeable membrane=== (cell membrane) till equilibrium is reached. 
+Osmosis is the net movement of ==water molecules== from a region of higher water potential to a region of lower water potential through  a ==partially permeable membrane== (cell membrane) till equilibrium is reached. 
 
-Similarly to [[Diffusion]], Osmosis instead is the movement of ===only water molecules===
+Similarly to [[Diffusion]], Osmosis instead is the movement of ==only water molecules==
 
 #### Examples
 ___
