@@ -4,12 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6fbf02b0147e3e31",
+        "id": "c8487816f4291bee",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "56565bd28c9594f5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Social studies/How do we decide what is good for society/Ideas shaping governance.md",
+            "file": "Biology/Cells/Plant cells.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social studies/How do we decide what is good for society/Ideas shaping governance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6fbf02b0147e3e31",
+  "active": "c8487816f4291bee",
   "lastOpenFiles": [
-    "Social studies/How do we decide what is good for society/Ideas shaping governance.md",
-    "Social studies/How do we decide what is good for society/NIMBY.md",
-    "Social studies/How do we decide what is good for society/Organ of states.md",
-    "Social studies/How do we decide what is good for society/Trade offs.md",
-    "Social studies/Assimilation Vs Integration/Integration.md",
-    "Social studies/Exploring citizenship and governance/Citizenship.md",
-    "Social studies/Exploring citizenship and governance/Ways to obtain citizenship.md",
-    "Social studies/Exploring citizenship and governance/Constitution.md",
-    "Social studies/Exploring citizenship and governance/Democracy.md",
-    "Social studies/Exploring citizenship and governance/SG Haze rescue.md"
+    "Biology/Cells/Specialised cells.md",
+    "Biology/Cells/Plant cells.md",
+    "Biology/Cells/Animal cells.md",
+    "Biology/Cells/Cells.md",
+    "Biology/Cells/Images/Untitled.md",
+    "Biology/Nutrition in plants/Nutrition in plants.md",
+    "Biology/Nutrition in plants/Nutrition in plants.pdf",
+    "Social studies/How do we decide what is good for society/2.2/Organ of states.md",
+    "Social studies/How do we decide what is good for society/2.3/Ideas shaping governance.md",
+    "Social studies/How do we decide what is good for society/2.3/Our singapore conversation.md"
   ]
 }
