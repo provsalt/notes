@@ -1,15 +1,15 @@
 {
   "showCLICommands": false,
   "addExtensionsToInternalLinks": "html",
-  "injectAppCSS": "light",
+  "injectAppCSS": "current",
   "injectThemeCSS": false,
-  "customCSSFile": null,
+  "customCSSFile": "C:\\Users\\provsalt\\OneDrive\\Obsidian\\Notes\\.obsidian\\themes\\Things.css",
   "displayYAMLFrontmatter": false,
   "linkStrippingBehaviour": "text",
   "highDPIDiagrams": true,
-  "pandoc": "pandoc",
+  "pandoc": null,
   "pdflatex": null,
-  "outputFolder": "C:\\Users\\provsalt\\Documents\\Obsidian",
+  "outputFolder": "",
   "extraArguments": "",
   "exportFrom": "html"
 }

@@ -4,26 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "9a6af9ee8345a487",
+        "id": "6fbf02b0147e3e31",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Social studies/How do we decide what is good for society/Ideas shaping governance.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2c4a306d976661f0",
+    "id": "4966e74f60bb7181",
     "type": "split",
     "children": [
       {
-        "id": "595549bdac28af47",
+        "id": "cfee76c6051a8eed",
         "type": "tabs",
         "children": [
           {
-            "id": "9fe790986843bdb0",
+            "id": "21f8feb3dfe7fc73",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +35,7 @@
             }
           },
           {
-            "id": "433696ca7ac84190",
+            "id": "cef6eba0025434e9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,47 +56,57 @@
     "width": 300
   },
   "right": {
-    "id": "1fe2ca716346333a",
+    "id": "b6e78efbd402f19d",
     "type": "split",
     "children": [
       {
-        "id": "09249b20efde3f0a",
+        "id": "0759cfbddf95b49f",
         "type": "tabs",
         "children": [
           {
-            "id": "f8ddf29dbc4c7d8f",
+            "id": "0a4176618b88d1cd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Social studies/How do we decide what is good for society/Ideas shaping governance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "1e7dc8a643957bb2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "9a6af9ee8345a487",
+  "active": "6fbf02b0147e3e31",
   "lastOpenFiles": [
-    "Social studies/Exploring citizenship and governance/Constitution.md",
-    "Social studies/Exploring citizenship and governance/Ways to obtain citizenship.md",
-    "Social studies/Table of contents.md",
-    "Biology/Study.md",
-    "Biology/Movement of substances/Osmosis.md",
+    "Social studies/How do we decide what is good for society/Ideas shaping governance.md",
+    "Social studies/How do we decide what is good for society/NIMBY.md",
+    "Social studies/How do we decide what is good for society/Organ of states.md",
+    "Social studies/How do we decide what is good for society/Trade offs.md",
+    "Social studies/Assimilation Vs Integration/Integration.md",
     "Social studies/Exploring citizenship and governance/Citizenship.md",
-    "Biology/Cells/Specialised cells.md",
-    "Social studies/Untitled/Integration.md",
-    "Social studies/Exploring citizenship and governance/SG Haze rescue.md",
-    "Social studies/Exploring citizenship and governance/Democracy.md"
+    "Social studies/Exploring citizenship and governance/Ways to obtain citizenship.md",
+    "Social studies/Exploring citizenship and governance/Constitution.md",
+    "Social studies/Exploring citizenship and governance/Democracy.md",
+    "Social studies/Exploring citizenship and governance/SG Haze rescue.md"
   ]
 }
