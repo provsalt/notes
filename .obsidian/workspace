@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8487816f4291bee",
+        "id": "da4f467199da8fd9",
         "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
-        }
-      },
-      {
-        "id": "56565bd28c9594f5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Biology/Cells/Plant cells.md",
-            "mode": "source",
-            "source": false
-          }
         }
       }
     ],
@@ -103,17 +91,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c8487816f4291bee",
+  "active": "da4f467199da8fd9",
   "lastOpenFiles": [
-    "Biology/Cells/Specialised cells.md",
-    "Biology/Cells/Plant cells.md",
-    "Biology/Cells/Animal cells.md",
-    "Biology/Cells/Cells.md",
-    "Biology/Cells/Images/Untitled.md",
-    "Biology/Nutrition in plants/Nutrition in plants.md",
+    "Biology/Nutrients/Nutrients.md",
+    "Biology/Nutrients/Testing for starch.md",
     "Biology/Nutrition in plants/Nutrition in plants.pdf",
-    "Social studies/How do we decide what is good for society/2.2/Organ of states.md",
-    "Social studies/How do we decide what is good for society/2.3/Ideas shaping governance.md",
-    "Social studies/How do we decide what is good for society/2.3/Our singapore conversation.md"
+    "Chemistry/Organic chemistry/Organic Chemistry.md",
+    "Biology/Untitled.md",
+    "Biology/Movement of substances/Diffusion and osmosis.md",
+    "Biology/All.md",
+    "Biology/All.md",
+    "Biology/Cells/Animal cells.md",
+    "Biology/Cells/Plant cells.md"
   ]
 }

@@ -1,8 +1,8 @@
 # TO STUDY!
 ___
 
-- [] Cells
-- [] Movement of substances
+- [x] Cells
+- [x] Movement of substances
 - [] Nutrients
 - [] Enzymes
 - [] Nutrients in human

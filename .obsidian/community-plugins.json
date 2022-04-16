@@ -3,5 +3,7 @@
   "obsidian-mind-map",
   "table-editor-obsidian",
   "sliding-panes-obsidian",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "templater-obsidian",
+  "dataview"
 ]
