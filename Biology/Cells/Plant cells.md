@@ -22,7 +22,7 @@ Large central vacuole contains cell sap which contains
 - Amino acids
 
 ## Mitochondria
-Aerobic respiration occurs in the mitochondria where glucose is oxidised to release energy used to perform cell activities such as growth and reproduction
+[[Aerobic respiration]] occurs in the mitochondria where glucose is oxidised to release energy used to perform cell activities such as growth and reproduction
 
 ## Ribosomes
 Synthesise protein in the cell

@@ -2,14 +2,14 @@
 ---
 Use HAPPY without the Y for the guiding principals
 
-- ==H==aving good leadership
-- ==A==nticipating changes and staying relevant
-- ==P==roviding a stake for everyone
-- ==P==ractising meritocracy
-- ==Y==....
+- **H**aving good leadership
+- **A**nticipating changes and staying relevant
+- **P**roviding a stake for everyone
+- **P**ractising meritocracy
+- **Y**....
 
 ## Having good leadership
-The leaders and government must be capable, honest and non corrupt to ensure that ==right decisions== are made for the good of the country and manages [[Trade offs]] properly even if the decision is not popular among people.
+The leaders and government must be capable, honest and non corrupt to ensure that **right decisions** are made for the good of the country and manages [[Trade offs]] properly even if the decision is not popular among people.
 
 ## Anticipating changes and staying relevant
 The country has to stay relevant or it will be behind other countries and lose out due to [[globalisation]]. These decisions have to be made for the benefit of the people in the long run 

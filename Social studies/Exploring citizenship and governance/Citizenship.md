@@ -32,6 +32,6 @@ Stronger Sense of belonging because of this believe that they have a unique nati
 ## Citizenship shaped by participation
 Citizens are able to participate in public activities and helping citizens, this will allow them to get a sense of citizenship.
 
-- Citizens can contribute to the betterment of the society either as ==individuals or as groups (Informal and formal). ==
+- Citizens can contribute to the betterment of the society either as **individuals or as groups (Informal and formal).**
 - Participation allows us to feel as if we have a responsibility to contribute towards the progress and development of the country.
 Example: [[SG Haze rescue]]

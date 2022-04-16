@@ -6,7 +6,7 @@ There are many ways of obtaining citizenship in a country, it mostly comes down 
 This is where a child can obtain citizenship from a parent who is a citizen of that specific country.
 
 ### Country of birth
-The child can be given citizenship who are born in the country ==This is not applicable to Singapore if both parents are non SIngaporeans==
+The child can be given citizenship who are born in the country **This is not applicable to Singapore if both parents are non SIngaporeans**
 
 ### Marriage
 Citizenship can be given to the person who is marrying a citizen of that country.
