@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Social studies\"",
@@ -67,6 +67,6 @@
   "repelStrength": 13.6566012783778,
   "linkStrength": 1,
   "linkDistance": 187,
-  "scale": 0.38230109687702274,
+  "scale": 0.5359795996226308,
   "close": false
 }
