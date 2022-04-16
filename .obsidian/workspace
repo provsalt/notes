@@ -7,8 +7,12 @@
         "id": "999b41cc0a2e7616",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Principal of accounts/Equities/Equties.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Principal of accounts/Equities/Equties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +98,7 @@
   },
   "active": "999b41cc0a2e7616",
   "lastOpenFiles": [
+    "Principal of accounts/Equities/Equties.md",
     "Biology/Nutrients/Nutrients.md",
     "Biology/Nutrients/Nutrients test.md",
     "Biology/Cells/Cells.md",
@@ -101,7 +107,6 @@
     "Biology/Cells/Specialised cells.md",
     "Biology/Movement of substances/Diffusion and osmosis.md",
     "Biology/Nutrients/Testing for proteins.md",
-    "Biology/Nutrients/Testing for reducing sugars.md",
-    "Biology/Nutrients/Testing for fats.md"
+    "Biology/Nutrients/Testing for reducing sugars.md"
   ]
 }
