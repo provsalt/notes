@@ -1,8 +1,0 @@
-# Types of tourism.
-## 
-
-##
-
-##
-
-##

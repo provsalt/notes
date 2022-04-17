@@ -3,7 +3,7 @@ ___
 
 - [x] Cells
 - [x] Movement of substances
-- [] Nutrients
+- [x] Nutrients
 - [] Enzymes
 - [] Nutrients in human
 - [] Transport in human

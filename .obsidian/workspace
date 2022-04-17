@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Principal of accounts/Equities/Equties.md",
+            "file": "Geography/Tourism/Introduction to tourism/Scenic beauty.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "63eb7e6bd48a7277",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Geography/Tourism/Introduction to tourism/Rich culture.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principal of accounts/Equities/Equties.md",
+                "file": "Geography/Tourism/Introduction to tourism/Rich culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "999b41cc0a2e7616",
+  "active": "63eb7e6bd48a7277",
   "lastOpenFiles": [
-    "Principal of accounts/Equities/Equties.md",
-    "Biology/Nutrients/Nutrients.md",
-    "Biology/Nutrients/Nutrients test.md",
-    "Biology/Cells/Cells.md",
-    "Biology/Cells/Plant cells.md",
-    "Biology/Cells/Animal cells.md",
-    "Biology/Cells/Specialised cells.md",
+    "Geography/Tourism/Introduction to tourism/Rich culture.md",
+    "Geography/Tourism/Introduction to tourism/Scenic beauty.md",
+    "Geography/Tourism/Introduction to tourism/Types of tourism.md",
+    "Geography/Tourism/Introduction to tourism/Conflicts.md",
+    "Geography/Tourism/Introduction to tourism/Tourist.md",
+    "Geography/Tourism/Introduction to tourism/Good facilities.md",
+    "Biology/Study.md",
     "Biology/Movement of substances/Diffusion and osmosis.md",
-    "Biology/Nutrients/Testing for proteins.md",
-    "Biology/Nutrients/Testing for reducing sugars.md"
+    "Social studies/How do we decide what is good for society/2.2/Organ of states.md",
+    "Social studies/How do we decide what is good for society/2.3/Our singapore conversation.md"
   ]
 }
