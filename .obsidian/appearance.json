@@ -1,4 +1,6 @@
 {
   "cssTheme": "Bubble Space",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "translucency": false,
+  "theme": "obsidian"
 }

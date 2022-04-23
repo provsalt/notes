@@ -12,6 +12,9 @@ Use HAPPY without the Y for the guiding principals
 The leaders and government must be capable, honest and non corrupt to ensure that **right decisions** are made for the good of the country and manages [[Trade offs]] properly even if the decision is not popular among people.
 
 ## Anticipating changes and staying relevant
+
+^f8600a
+
 The country has to stay relevant or it will be behind other countries and lose out due to [[globalisation]]. These decisions have to be made for the benefit of the people in the long run 
 ### NEWater 
 (self reliant, 4 taps)

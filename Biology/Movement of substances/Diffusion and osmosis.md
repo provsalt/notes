@@ -2,7 +2,7 @@
 ___
 
 #### Definition
-Diffusion is the net movement of particles from a region of higher concentration to a region of lower concentration down a concentration gradient till equilibrium is reached.
+Diffusion is the net movement of particles from a region of higher concentration to a region of lower concentration down a concentration gradient till equilibrium is reached. ^fd43fa
 
 #### Examples
 - Perfume from higher concentration to the room (lower concentration)

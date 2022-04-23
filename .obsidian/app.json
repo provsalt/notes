@@ -8,10 +8,10 @@
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
-    "margin": "0",
+    "margin": "2",
     "downscalePercent": 100
   },
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Biology/Cells/Images"
+  "attachmentFolderPath": ""
 }

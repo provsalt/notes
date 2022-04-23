@@ -5,3 +5,5 @@
 
 ## Example
 Mount fuji in Japan
+
+There are multiple activities to do up on the tallest mountain in Japan with different hot springs to visit and different trails for climbing in the mountain. 
