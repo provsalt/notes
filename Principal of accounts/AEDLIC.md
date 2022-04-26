@@ -1,3 +1,4 @@
+#POA 
 # Assets, Expenses and Drawings
 - They all fall under as a debit nature so when adding you should debit
 - When deducting, credit should be used

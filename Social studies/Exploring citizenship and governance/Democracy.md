@@ -1,4 +1,5 @@
 # Democracy
+#SS
 ## Definition
 Democratic came from a Greek word which meant "Rule by the people"
 

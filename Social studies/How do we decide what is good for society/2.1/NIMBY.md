@@ -1,4 +1,5 @@
 # Not in my backyard
+#ss
 ## Definition
 NIMBY is someone who objects idea to a project especially ones intended for the public like landfills, schools being near their residence (house)
 

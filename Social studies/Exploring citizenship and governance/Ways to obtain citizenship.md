@@ -1,5 +1,6 @@
 # Ways to obtain citizenship
 ---
+#ss
 There are many ways of obtaining citizenship in a country, it mostly comes down to these factors
 
 ### By descent

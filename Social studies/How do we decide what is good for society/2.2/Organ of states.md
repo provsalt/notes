@@ -1,4 +1,5 @@
 # 2.2 Singapore organ of state
+#ss
 Idea of [[Constitution]] applies for the parties listed here as well
 ## Legislature 
 Consist of president and members of parliament (MPs, NCMPs, NMPs)

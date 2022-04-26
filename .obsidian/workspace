@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "573fd91f0ecb8df7",
+        "id": "7e301241082dec63",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Chemistry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +82,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "dfaadf2e657a8fe3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -91,17 +102,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "573fd91f0ecb8df7",
+  "active": "7e301241082dec63",
   "lastOpenFiles": [
     "Social studies/Working for the good of society/Role of citizens/Contributing to the needs of society.md",
-    "Social studies/Table of contents.md",
+    "Social studies/Working for the good of society/Role of citizens/Groups.md",
+    "Social studies/Working for the good of society/Role of citizens/How can citizens contribute.md",
+    "Social studies/Working for the good of society/Role of citizens/Providing feedback.md",
     "Social studies/Working for the good of society/Role of government/Ensuring justice.md",
-    "Social studies/Working for the good of society/Role of government/Internal order and external securities.md",
-    "Social studies/Working for the good of society/Role of government/Providing good and services.md",
+    "Social studies/Assimilation Vs Integration/Integration.md",
     "Social studies/Working for the good of society/Role of government/Safeguarding interest of citizens.md",
-    "Social studies/How do we decide what is good for society/2.2/Organ of states.md",
-    "Geography/Tourism/Infrastructure and Services.md",
-    "Infastructure and Services.md",
-    "Social studies/Working for the good of society/Role of government.md"
+    "Social studies/Working for the good of society/Role of government/Providing good and services.md",
+    "Social studies/Working for the good of society/Role of government/Internal order and external securities.md",
+    "Social studies/How do we decide what is good for society/2.3/Our singapore conversation.md"
   ]
 }

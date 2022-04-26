@@ -1,31 +1,17 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Social studies\"",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:Biology",
+      "query": "path:Biology tag:#Biology",
       "color": {
         "a": 1,
         "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:Geography",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
       }
     },
     {
@@ -33,6 +19,20 @@
       "color": {
         "a": 1,
         "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:English",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Geography",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     },
     {
@@ -50,23 +50,23 @@
       }
     },
     {
-      "query": "path:English",
+      "query": "path:\"Social studies\"",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 14701138
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0.1,
-  "nodeSizeMultiplier": 1.06883236120112,
+  "nodeSizeMultiplier": 1.10270576798445,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
   "centerStrength": 0.802603154028948,
   "repelStrength": 13.6566012783778,
-  "linkStrength": 0.698963058976021,
-  "linkDistance": 115,
-  "scale": 0.5359795996226783,
-  "close": false
+  "linkStrength": 0.923633614171527,
+  "linkDistance": 40,
+  "scale": 0.7514342322279036,
+  "close": true
 }

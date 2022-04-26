@@ -1,4 +1,5 @@
 # Equity
+#POA
 ## Closing accounts to income summary
 ### Profit
 | Date   | Particulars       | Dr    | Cr    |

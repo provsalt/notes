@@ -1,4 +1,5 @@
 # Safeguarding the interests of citizens
+#ss
 Government implements [[Organ of states#Legislature]] that will safeguard the interest of citizens to ensure that they will have a sense of security of living in the country
 ## Workright initiative 
 1.  The government introduced the WorkRight Initiative to help both employees and employers understand their rights and responsibility respectively
