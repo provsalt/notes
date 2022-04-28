@@ -16,7 +16,7 @@ The leaders and government must be capable, honest and non corrupt to ensure tha
 
 ^f8600a
 
-The country has to stay relevant or it will be behind other countries and lose out due to [[globalisation]]. These decisions have to be made for the benefit of the people in the long run 
+The country has to stay relevant or it will be behind other countries and lose out due to [[Globalisation]]. These decisions have to be made for the benefit of the people in the long run 
 ### NEWater 
 (self reliant, 4 taps)
 will not lose out due to malaysia not selling water to SG

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7e301241082dec63",
+        "id": "86967ce1a783310b",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -49,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.0036334991455
   },
   "right": {
     "id": "b6e78efbd402f19d",
@@ -70,7 +70,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -95,24 +95,24 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "7e301241082dec63",
+  "active": "86967ce1a783310b",
   "lastOpenFiles": [
-    "Social studies/Working for the good of society/Role of citizens/Contributing to the needs of society.md",
-    "Social studies/Working for the good of society/Role of citizens/Groups.md",
-    "Social studies/Working for the good of society/Role of citizens/How can citizens contribute.md",
-    "Social studies/Working for the good of society/Role of citizens/Providing feedback.md",
+    "Social studies/Living in a globalized world/Advances in technology.md",
     "Social studies/Working for the good of society/Role of government/Ensuring justice.md",
-    "Social studies/Assimilation Vs Integration/Integration.md",
-    "Social studies/Working for the good of society/Role of government/Safeguarding interest of citizens.md",
-    "Social studies/Working for the good of society/Role of government/Providing good and services.md",
-    "Social studies/Working for the good of society/Role of government/Internal order and external securities.md",
-    "Social studies/How do we decide what is good for society/2.3/Our singapore conversation.md"
+    "Social studies/How do we decide what is good for society/2.2/Organ of states.md",
+    "Social studies/How do we decide what is good for society/2.3/Our singapore conversation.md",
+    "Biology/Nutrients/Nutrients test.md",
+    "Social studies/Exploring citizenship and governance/Citizenship.md",
+    "Social studies/Living in a globalized world/Globalisation.md",
+    "Social studies/Living in a globalized world/Transportation.md",
+    "Social studies/Living in a globalized world/MNC.md",
+    "Social studies/Working for the good of society/Role of citizens/Contributing to the needs of society.md"
   ]
 }
