@@ -6,5 +6,9 @@
   "obsidian-pandoc",
   "templater-obsidian",
   "dataview",
-  "obsidian-discordrpc"
+  "obsidian-discordrpc",
+  "obsidian-admonition",
+  "tag-wrangler",
+  "readwise-official",
+  "obsidian-statusbar-pomo"
 ]

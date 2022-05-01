@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Chemistry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,15 +104,15 @@
   },
   "active": "86967ce1a783310b",
   "lastOpenFiles": [
-    "Social studies/Living in a globalized world/Advances in technology.md",
-    "Social studies/Working for the good of society/Role of government/Ensuring justice.md",
-    "Social studies/How do we decide what is good for society/2.2/Organ of states.md",
-    "Social studies/How do we decide what is good for society/2.3/Our singapore conversation.md",
-    "Biology/Nutrients/Nutrients test.md",
-    "Social studies/Exploring citizenship and governance/Citizenship.md",
-    "Social studies/Living in a globalized world/Globalisation.md",
-    "Social studies/Living in a globalized world/Transportation.md",
-    "Social studies/Living in a globalized world/MNC.md",
-    "Social studies/Working for the good of society/Role of citizens/Contributing to the needs of society.md"
+    "Chemistry/Separation techniques/Distillation.md",
+    "Chemistry/Separation techniques/Separation techniques.md",
+    "Chemistry/Separation techniques/Filtration.md",
+    "Chemistry/Organic chemistry/Crude oil separation.md",
+    "Chemistry/Separation techniques/Evaporation to dryness.md",
+    "Chemistry/Separation techniques/Crystallization.md",
+    "Chemistry/Separation techniques/Magnetic Separation.md",
+    "Biology/Cells/Specialised cells.md",
+    "Chemistry/Separation techniques/Paper chromatography.md",
+    "Chemistry/Organic chemistry/Organic Chemistry.md"
   ]
 }
