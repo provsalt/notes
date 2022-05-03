@@ -18,3 +18,8 @@ Fractional distillation is used to separate more than 2 types of liquid in a liq
 It is used to separate petroleum into different useful fractions like petroleum gas, petrol, kerosene and diesel.
 It is also used to separate gases to obtain nitrogen, oxygen and argon from liquefied air.
 
+To separate ethanol, an [[Organic Chemistry|Organic compound]] from water:
+1.  Heat the mixture in the round bottom flask until the temperature reaches 78℃ (the boiling point of ethanol)
+2. At 78℃, both liquid may distil together. The vapour of the higher boiling point, water will be condensed along the fractionating column but re-enter the round bottom flask while the vapour of ethanol rises into the condenser and is cooled to form pure liquid ethanol which will be collected as the distillate.
+3. The temperature remains at 78℃ until all the remaining ethanol has been distilled out.
+4. At 100℃, water boils and distils over the condenser to the distillate.. the temperature will remain constant until all the water has been distilled out
