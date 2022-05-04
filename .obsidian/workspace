@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ae42b5c14a128a7b",
+        "id": "b792071a30b0ae76",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Geography/Tourism/Introduction to tourism/Conflicts.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geography/Tourism/Introduction to tourism/Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae42b5c14a128a7b",
+  "active": "b792071a30b0ae76",
   "lastOpenFiles": [
-    "Chemistry/Kinetic particle theory/State changes.md",
+    "Geography/Tourism/Introduction to tourism/Conflicts.md",
     "Chemistry/Acid and bases/Acids.md",
-    "Chemistry/Acid and bases/Universal indicator.md",
+    "Chemistry/Separation techniques/Crystallization.md",
+    "Chemistry/Organic chemistry/Organic Chemistry.md",
+    "Geography/Tourism/Introduction to tourism/Promoting of tourism.md",
     "Chemistry/Air/Tests.md",
-    "Chemistry/Acid and bases/Bases.md",
-    "Chemistry/Air/Tests/Hydrogen test.md",
-    "Chemistry/Salts/Salts.md",
-    "Chemistry/Organic chemistry/Crude oil separation.md",
-    "Chemistry/Kinetic particle theory/Three state on matter.md",
-    "Chemistry/Metals/Metals.md"
+    "Geography/Tourism/Introduction to tourism/Tourism.md",
+    "Geography/Tourism/Introduction to tourism/Rich culture.md",
+    "Geography/Tourism/Introduction to tourism/Scenic beauty.md",
+    "Geography/Tourism/Introduction to tourism/Good facilities.md"
   ]
 }

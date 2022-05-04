@@ -15,4 +15,4 @@ If oxygen is present, glowing splint will be relit. (That's why oxygen may be da
 Bubble gas through limewater, if carbon dioxide is present, white precipitation will be formed.
 
 # Test for ammonia
-Place blue litmus paper near ammonia gas, if ammonia is present,  blue litmus paper will turn to red.
+Place red litmus paper near ammonia gas, if ammonia is present,  blue litmus paper will turn to blue.

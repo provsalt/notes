@@ -1,5 +1,5 @@
 ---
-tags:  ["Tourism"]
+tags:  ["Geography", "Tourism"]
 ---
 # MICE
 MICE Stands for meetings, incentives conventions and events

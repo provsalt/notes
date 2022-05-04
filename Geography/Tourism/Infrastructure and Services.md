@@ -1,3 +1,3 @@
 ---
-tags:  ["Tourism"]
+tags:  ["Geography", "Tourism"]
 ---
