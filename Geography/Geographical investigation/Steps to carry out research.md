@@ -28,6 +28,6 @@ How successful the investigation is? Did it prove the hypothesis
 Describe the strengths and limitation of the investigation.
 Eg: What could you improve ...
 	Breath: Increase numbers of days/ increase number of data collected -> more profile covered, more representative.
-	In-depth: Can do interviews with people,
+	Depth: Can do interviews with people, changing data collection method.
 	Questionnaire, improve question so more open ended questions
 	Conduct pilot survey (test survey), see if tourist are able to understand the question you ask.
