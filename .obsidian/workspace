@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b792071a30b0ae76",
+        "id": "6828cb19d0cec713",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Geography/Plate tectonics/Landforms/Benefits of living near volcanoes.md",
+            "file": "Principal of accounts/Introduction to accounting/Professional ethics.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Plate tectonics/Landforms/Benefits of living near volcanoes.md",
+                "file": "Principal of accounts/Introduction to accounting/Professional ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b792071a30b0ae76",
+  "active": "6828cb19d0cec713",
   "lastOpenFiles": [
-    "Geography/Plate tectonics/Landforms/Benefits of living near volcanoes.md",
-    "Geography/Plate tectonics/Landforms/Risks in living near volcanoes.md",
-    "Geography/Geographical investigation/Steps to carry out research.md",
-    "Geography/Geographical investigation/Scatter plot.md",
-    "Geography/Geographical investigation/Sampling methods.md",
-    "Geography/Geographical investigation/Pie chart.md",
-    "Geography/Geographical investigation/Line graph.md",
-    "Geography/Geographical investigation/Gathering data.md",
-    "Geography/Geographical investigation/Bar graphs.md",
-    "Geography/Plate tectonics/Landforms/Volcanoes.md"
+    "Principal of accounts/Introduction to accounting/Professional ethics.md",
+    "Principal of accounts/Introduction to accounting/Theories.md",
+    "Principal of accounts/Introduction to accounting/Stakeholders.md",
+    "Principal of accounts/Trial balance/Trial balance.md",
+    "Principal of accounts/Accounting information system/Source documents.md",
+    "Principal of accounts/Expense/Theories.md",
+    "Principal of accounts/Income/Theories.md",
+    "Principal of accounts/Accounting equation/Accounting equations.md",
+    "Principal of accounts/Double entries recording/Double entry rule.md",
+    "Principal of accounts/Double entries recording/Ledger accounts.md"
   ]
 }
