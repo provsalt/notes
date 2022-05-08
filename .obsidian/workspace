@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6828cb19d0cec713",
+        "id": "8035e81fe0a5e302",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Principal of accounts/Introduction to accounting/Professional ethics.md",
+            "file": "Biology/Enzymes/Factors affecting enzymes.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Chemostry",
+                "query": "tag:#Biology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principal of accounts/Introduction to accounting/Professional ethics.md",
+                "file": "Biology/Enzymes/Factors affecting enzymes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6828cb19d0cec713",
+  "active": "8035e81fe0a5e302",
   "lastOpenFiles": [
-    "Principal of accounts/Introduction to accounting/Professional ethics.md",
-    "Principal of accounts/Introduction to accounting/Theories.md",
-    "Principal of accounts/Introduction to accounting/Stakeholders.md",
-    "Principal of accounts/Trial balance/Trial balance.md",
-    "Principal of accounts/Accounting information system/Source documents.md",
-    "Principal of accounts/Expense/Theories.md",
-    "Principal of accounts/Income/Theories.md",
-    "Principal of accounts/Accounting equation/Accounting equations.md",
-    "Principal of accounts/Double entries recording/Double entry rule.md",
-    "Principal of accounts/Double entries recording/Ledger accounts.md"
+    "Biology/Enzymes/Factors affecting enzymes.md",
+    "Biology/Enzymes/Enzymes.md",
+    "Chemistry/Kinetic particle theory/Three state on matter.md",
+    "Biology/Enzymes/Lock and key hypothesis.md",
+    "Biology/Reproduction in plants/Reproduction in plants.pdf",
+    "Biology/Nutrition in plants/Nutrition in plants.pdf",
+    "Biology/Enzymes/Enzyme-substrate complex.md",
+    "Biology/Respiration in humans/Respiration.md",
+    "Biology/Movement of substances/Effect of osmosis on cells.md",
+    "Biology/Movement of substances/Diffusion and osmosis.md"
   ]
 }

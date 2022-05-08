@@ -24,7 +24,7 @@ Some of these nutrients can be tested with [[Nutrients test]]
 	- Starch is a storage form of carbohydrates in plants
 
 Carbohydrates are important because:
-- It provides energy through [[Aerobic respiration]]
+- It provides energy through [[Respiration]]
 - It can be converted to fats/protein via [[Organic Chemistry]]
 
 ## Fats

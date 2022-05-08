@@ -21,7 +21,7 @@ Via either diffusion or osmosis
 Compared to [[Plant cells#Large central vacuole]], animal cells have small temporary vacuole that stores water and nutrients.
 
 ## Mitochondria
-[[Aerobic respiration]] occurs in the mitochondria where glucose is oxidised to release energy used to perform cell activities such as growth and reproduction
+[[Respiration]] occurs in the mitochondria where glucose is oxidised to release energy used to perform cell activities such as growth and reproduction
 
 ## Ribosomes
 Synthesise protein in the cell

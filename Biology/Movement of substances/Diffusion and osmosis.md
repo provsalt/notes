@@ -7,7 +7,7 @@ Diffusion is the net movement of particles from a region of higher concentration
 
 #### Examples
 - Perfume from higher concentration to the room (lower concentration)
-- Oxygen and Carbon dioxide diffusing through alveoli to blood ([[Aerobic respiration]])
+- Oxygen and Carbon dioxide diffusing through alveoli to blood ([[Respiration]])
 - Diffusion of glucose into the small intestine from villus
 **Diffusion can also occur with a partially permeable membrane!**
 
