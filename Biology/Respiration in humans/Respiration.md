@@ -4,13 +4,16 @@ Tags: Biology
 
 # Respiration
 ## Aerobic respiration
-Aerobic respiration is the process of converting oxygen and glucose to large amounts of energy.
+Aerobic respiration is the process of breaking down of glucose to large amounts of energy in the presence of oxygen and takes place in [[Animal cells#Mitochondria|Mitochondria]] .
 
+Word equation:
 ==Glucose + Oxygen -> Large amount of energy + carbon dioxide + water==
 
 ## Anaerobic respiration
-Anaerobic respiration is the process of converting glucose to small amounts of energy without requiring oxygen.
+Anaerobic respiration is the process of converting glucose to small amounts of energy in the absence of oxygen. Anaerobic respiration happens in the [[Animal cells#Cytoplasm|Cytoplasm]] compared to mitochondria in aerobic respiration.
 
-Anaerobic respiration happens when there is lack of oxygen however energy is still required. Thus there has to be sacrifices made to obtain energy.
+Therefore when a person does not have enough oxygen, anaerobic respiration takes place in the muscle cells to release energy.
+Therefore muscle cells will feel sore due to lactic acid being produced in the muscles.
 
+Word equation:
 ==Glucose -> Small amount of energy + lactic acid==

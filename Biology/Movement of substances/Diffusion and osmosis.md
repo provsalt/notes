@@ -1,7 +1,7 @@
+---
+Tags: Biology
+---
 # Diffusion
-#Biology 
-___
-
 #### Definition
 Diffusion is the net movement of particles from a region of higher concentration to a region of lower concentration down a concentration gradient till equilibrium is reached. ^fd43fa
 
@@ -31,20 +31,17 @@ Higher temperature will increase kinetic energy which will increase the particle
 
 
 # Osmosis
----
-
 #### Definition
 Osmosis is the net movement of **water molecules** from a region of higher water potential to a region of lower water potential through  a **partially permeable membrane** (cell membrane) till equilibrium is reached. 
 
 Similarly to [[#Diffusion]], Osmosis instead is the movement of **only water molecules**
 
 #### Examples
-___
-
 ##### Visking tubing
 Visking tubing is partially permeable which allows some water molecules to move from a higher region of water potential (outside visking tubing) to a lower water potential (inside visking tubing which has 5% sugar solution)
 
 ##### Potato with LWP
+Adapted from [[Effect of osmosis on cells]]
 
 Water has 5% higher water potential than potato cell, hence osmosis will occur and water will travel inwards the cell sap through the cell membrane which is partially permeable.. This will make the cell sap turgid as there are more water than the cell can handle
 

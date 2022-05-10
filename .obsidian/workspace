@@ -7,12 +7,8 @@
         "id": "8035e81fe0a5e302",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Biology/Enzymes/Factors affecting enzymes.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Enzymes/Factors affecting enzymes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +103,15 @@
   },
   "active": "8035e81fe0a5e302",
   "lastOpenFiles": [
-    "Biology/Enzymes/Factors affecting enzymes.md",
-    "Biology/Enzymes/Enzymes.md",
-    "Chemistry/Kinetic particle theory/Three state on matter.md",
-    "Biology/Enzymes/Lock and key hypothesis.md",
+    "Biology/Movement of substances/Diffusion and osmosis.md",
+    "Biology/Movement of substances/Effect of osmosis on cells.md",
+    "Biology/Transport in plants/Transport in plants.pdf",
     "Biology/Reproduction in plants/Reproduction in plants.pdf",
     "Biology/Nutrition in plants/Nutrition in plants.pdf",
-    "Biology/Enzymes/Enzyme-substrate complex.md",
+    "Biology/Transport in humans/Circulatory systen.md",
+    "Biology/Respiration in humans/Smoking effects.md",
+    "Biology/Respiration in humans/Respiration pathway.md",
     "Biology/Respiration in humans/Respiration.md",
-    "Biology/Movement of substances/Effect of osmosis on cells.md",
-    "Biology/Movement of substances/Diffusion and osmosis.md"
+    "Biology/Respiration in humans/Functions of alveoli.md"
   ]
 }
