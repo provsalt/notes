@@ -5,11 +5,11 @@ ___
 - [x] Cells
 - [x] Movement of substances
 - [x] Nutrients
-- [] Enzymes
-- [] Nutrients in human
-- [] Transport in human
-- [] Respiration in human
+- [x] Enzymes
+- [] Nutrition in human (TODO)
+- [] Transport in human (TODO)
+- [] Respiration in human (TODO)
 - [x] Nutrition in plants
 - [x] Transport in plants
-- [] Reproduction in plants
+- [] Reproduction in plants (TODO)
 - [] Reproduction in humans
