@@ -7,8 +7,12 @@
         "id": "2faa6a908a1de1e8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Biology/Nutrients/Nutrients test.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Biology",
+                "query": "tag:#Geography",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biology/Nutrients/Nutrients test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +108,7 @@
   },
   "active": "2faa6a908a1de1e8",
   "lastOpenFiles": [
+    "Biology/Nutrients/Nutrients test.md",
     "Biology/Reproduction in humans/Egg.md",
     "Biology/Reproduction in humans/Sperm.md",
     "Biology/Respiration in humans/Respiration pathway.md",
@@ -111,7 +117,6 @@
     "Biology/Respiration in humans/Respiration.md",
     "Biology/Reproduction in plants/Untitled.md",
     "Biology/Reproduction in plants/Pollination.md",
-    "Biology/Reproduction in plants/Reproduction in plants.pdf",
-    "Biology/Transport in humans/Heart.md"
+    "Biology/Reproduction in plants/Reproduction in plants.pdf"
   ]
 }
