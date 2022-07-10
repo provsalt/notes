@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Geography/Tourism/Changes in tourism/Destination factors.md",
+=======
+            "file": "Biology/Transport in humans/Heart.md",
+>>>>>>> e07426ad08bfd56372221c4ee0a896b844ff633f
             "mode": "source",
             "source": false
           }
@@ -69,7 +73,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Geography/Tourism/Changes in tourism/Destination factors.md",
+=======
+                "file": "Biology/Transport in humans/Heart.md",
+>>>>>>> e07426ad08bfd56372221c4ee0a896b844ff633f
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +117,7 @@
   },
   "active": "d2fb7c35a6044443",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Geography/Tourism/Changes in tourism/Destination factors.md",
     "Chemistry/Acid and bases/Universal indicator.md",
     "Chemistry/Acid and bases/Oxides.md",
@@ -119,5 +128,17 @@
     "Geography/Tourism/Changes in tourism/Forms of tourism.md",
     "Geography/Tourism/Changes in tourism/Trend of tourism.md",
     "Geography/Tourism/Introduction to tourism/Tourism.md"
+=======
+    "Biology/Transport in humans/Heart.md",
+    "Biology/Transport in humans/Blood.md",
+    "Biology/Transport in humans/Circulatory systen.md",
+    "Biology/Transport in humans/Veins.md",
+    "Biology/Transport in humans/Artery.md",
+    "Biology/Respiration in humans/Smoking effects.md",
+    "Biology/Respiration in humans/Respiration pathway.md",
+    "Biology/Respiration in humans/Respiration.md",
+    "Biology/Reproduction in humans/Sperm.md",
+    "Biology/Reproduction in humans/Egg.md"
+>>>>>>> e07426ad08bfd56372221c4ee0a896b844ff633f
   ]
 }
