@@ -10,3 +10,6 @@ There are 4 different type of tourist destinations
 2. Places with [[Good facilities]]
 3. Places with [[Rich culture]]
 4. Place of [[Conflicts]]
+
+# Tourism is very important
+Tourism is especially important. This is seen during Covid-19 where there was [[Fluctuations in tourism]] which caused a lot of countries to struggle financially and therefore getting tourist to a country is very important.

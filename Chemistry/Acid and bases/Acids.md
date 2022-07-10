@@ -19,3 +19,5 @@ Acid + Metal -> [[Salts|Salt]] + Hydrogen ([[Tests#Testing for hydrogen|Testing 
 
 Acid + Metal Carbonate -> [[Salts|Salt]]  + Water + Carbon dioxide
 H2SO4 (aq) + 
+
+Acid + Base/Alkaline -> [[Salts|Salt]] + water aka ([[Neutralization]])

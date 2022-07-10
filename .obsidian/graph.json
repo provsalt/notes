@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Biology tag:#Biology",
@@ -67,6 +67,6 @@
   "repelStrength": 13.6566012783778,
   "linkStrength": 0.923633614171527,
   "linkDistance": 40,
-  "scale": 0.2726859917360108,
+  "scale": 0.38230109687701946,
   "close": false
 }
