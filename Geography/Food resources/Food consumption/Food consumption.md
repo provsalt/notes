@@ -1,5 +1,5 @@
 ---
-Tags: Geography
+Tags: ["Geography", "Food"]
 ---
 
 # Food consumption
