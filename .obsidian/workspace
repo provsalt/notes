@@ -7,8 +7,12 @@
         "id": "d2fb7c35a6044443",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Social studies/Diversity in Singapore/Common spaces.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Social studies/Diversity in Singapore/Common spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +109,15 @@
   },
   "active": "d2fb7c35a6044443",
   "lastOpenFiles": [
+    "Social studies/Assimilation Vs Integration/Integration.md",
+    "Social studies/Diversity/Social economic status.md",
+    "Social studies/How do we decide what is good for society/2.3/Ideas shaping governance.md",
+    "Social studies/Diversity/Religion.md",
+    "Social studies/Diversity/Race and ethnicity.md",
+    "Social studies/Diversity/Nationality.md",
+    "Social studies/Diversity/Diversity.md",
     "Geography/Tourism/Changes in tourism/Fluctuations in tourism.md",
     "Geography/Tourism/Changes in tourism/Forms of tourism.md",
-    "Geography/Tourism/Changes in tourism/Trend of tourism.md",
-    "Geography/Tourism/Changes in tourism/Development in tech/Better with affordable transport.md",
-    "Geography/Tourism/Changes in tourism/Development in tech/Ease of access to info.md",
-    "Geography/Tourism/Changes in tourism/Demand factors.md",
-    "Geography/Tourism/Changes in tourism/Destination factors.md",
-    "Geography/Food resources/Food consumption/Human development index.md",
-    "Geography/Food resources/Countries.md",
-    "Geography/Food resources/Food consumption/GDP.md"
+    "Geography/Tourism/Changes in tourism/Trend of tourism.md"
   ]
 }

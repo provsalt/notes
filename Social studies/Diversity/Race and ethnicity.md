@@ -1,4 +1,9 @@
+---
+Tags: ["SS"]
+---
+
 # Race and ethnicity
+Race and ethnicity is commonly mixed up!!!
 ## Race
 Race refers to physical characteristics that are biological in nature
 Eg: Skin, hair and eyes colour.
