@@ -13,4 +13,4 @@ These are some of the reasons that makes us more diverse in Singapore.
 1. [[Nationality]]
 2. [[Race and ethnicity]]
 3. [[Religion]]
-4. [[Social economic status]]
+4. [[Socio-economic status]]

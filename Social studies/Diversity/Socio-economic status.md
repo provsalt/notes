@@ -2,9 +2,9 @@
 SES is determined by a person's income, education and ownership.
 
 There are 3 main social economical status
-1.  [[Social economic status#Low SES]]
-1.  [[Social economic status#Middle SES]]
-1.  [[Social economic status#High SES]]
+1.  [[Socio-economic status#Low SES]]
+1.  [[Socio-economic status#Middle SES]]
+1.  [[Socio-economic status#High SES]]
 
 ## Low SES
 People of lower SES usually do not posses a lot of wealth and may not have enough financial means to support themselves.

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d2fb7c35a6044443",
+        "id": "ab743d2c55d9f3f0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Social studies/Interacting in diversity/Common spaces.md",
+            "file": "Social studies/Living in diversity/Challanges in a diverse society.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crude oil",
+                "query": "National serv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.0036334991455
+    "width": 272.5
   },
   "right": {
     "id": "b6e78efbd402f19d",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social studies/Interacting in diversity/Common spaces.md",
+                "file": "Social studies/Living in diversity/Challanges in a diverse society.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d2fb7c35a6044443",
+  "active": "ab743d2c55d9f3f0",
   "lastOpenFiles": [
-    "Social studies/Diversity in Singapore/Economic opportunities.md",
-    "Social studies/Diversity in Singapore/Greater diversity.md",
+    "Social studies/Living in diversity/Concerns over Social Mobility.md",
+    "Social studies/Living in diversity/Challanges in a diverse society.md",
+    "Social studies/Living in diversity/Concerns on Standard of living.md",
+    "Social studies/Living in diversity/Prejudice and misconceptions.md",
+    "Social studies/Living in diversity/Common spaces.md",
+    "Social studies/Living in diversity/Exchange and appreciation of culture.md",
+    "Social studies/Living in diversity/Exchange of culture.md",
+    "Social studies/Living in diversity/Exchange of skills.md",
     "Social studies/Diversity in Singapore/Socio-cultural environment.md",
-    "Social studies/Interacting in diversity/Common spaces.md",
-    "Social studies/Diversity in Singapore/Immigration policy.md",
-    "Social studies/Diversity/Diversity.md",
-    "Social studies/Diversity/Nationality.md",
-    "Social studies/Diversity/Race and ethnicity.md",
-    "Social studies/Diversity/Religion.md",
-    "Social studies/Diversity/Social economic status.md"
+    "Social studies/Diversity in Singapore/Immigration policy.md"
   ]
 }
