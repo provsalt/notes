@@ -1,7 +1,3 @@
----
-Tags: ["SS"]
----
-
 # Race and ethnicity
 Race and ethnicity is commonly mixed up!!!
 ## Race

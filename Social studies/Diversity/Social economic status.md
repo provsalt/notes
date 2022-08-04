@@ -1,6 +1,3 @@
----
-Tags: ["SS"]
----
 # Social-economical status
 SES is determined by a person's income, education and ownership.
 

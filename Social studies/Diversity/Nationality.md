@@ -1,7 +1,3 @@
----
-Tags: ["SS"]
----
-
 # Nationality
 There are multiple different nationalities in Singapore where beyond [[Citizenship#Legal status]] it also means to have a strong sense of belonging to the country and sharing common experiences with others of the same nationality through [[Common spaces]]
 
