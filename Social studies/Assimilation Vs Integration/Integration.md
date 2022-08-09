@@ -1,6 +1,3 @@
----
-Tags: ["SS"]
----
 # Integration
 Integration retains people's unique identities while forging common grounds with the social groups that are already living in the country
 
