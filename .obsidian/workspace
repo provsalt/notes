@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ab743d2c55d9f3f0",
+        "id": "239cd603a11eb6cc",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -71,7 +71,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -98,20 +98,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "ab743d2c55d9f3f0",
+  "active": "239cd603a11eb6cc",
   "lastOpenFiles": [
-    "Social studies/Assimilation Vs Integration/Healthcare approcahes.md",
-    "Social studies/Assimilation Vs Integration/Integration.md",
-    "Social studies/Assimilation Vs Integration/Assimilation vs Integration.md",
-    "Social studies/Assimilation Vs Integration/Assimilation.md",
-    "README.md",
-    "Social studies/Diversity/Religion.md",
-    "Social studies/Diversity/Nationality.md",
-    "Social studies/Diversity/Diversity.md",
-    "Social studies/Diversity in Singapore/Immigration policy.md",
-    "Social studies/Diversity in Singapore/Socio-cultural environment.md"
+    "Chemistry/Organic chemistry/Organic Chemistry.md",
+    "Chemistry/Organic chemistry/Crude oil separation.md",
+    "Chemistry/Organic chemistry/Hydrocarbons.md",
+    "Chemistry/Salts/Salts.md",
+    "Chemistry/Salts/Reaction with MBC.md",
+    "Chemistry/Salts/Titration.md",
+    "Chemistry/Salts/Precipitation.md",
+    "Biology/Cells/Plant cells.md",
+    "Biology/Cells/Cells.md",
+    "Chemistry/Salts/Precipitaton.md"
   ]
 }

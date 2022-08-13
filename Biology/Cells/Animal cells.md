@@ -1,4 +1,7 @@
 # Animal cells
+
+^f43c40
+
 #Biology
 ## Protoplasm
 #### Cytoplasm
@@ -6,6 +9,9 @@
 - Site where most activity occurs
 
 #### Nucleus
+
+^a89a65
+
 - Controls cell activity such as cell growth and cell division.
 - Contains DNA that stores DNA information
 
