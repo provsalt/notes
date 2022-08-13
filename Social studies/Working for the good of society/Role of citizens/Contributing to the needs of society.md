@@ -1,5 +1,9 @@
+---
+Tags: ["SS"]
+---
 # Contributing to the needs of society
-#ss 
+Citizens can either contribute as an individual or through [[Groups]] as well as influencing government policies through platforms such as online and offline communication channels.
+
 ## Role of individual
 - Citizens play an important role to improve and sustain the general well-being of society. 
 - Individuals contribute through volunteering time, effort and money towards meaningful causes they are concern in the well-being of the society.

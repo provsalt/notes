@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "239cd603a11eb6cc",
+        "id": "39381c4c28665e0f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Social studies/Diversity/Socio-economic status.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "National serv",
+                "query": "tag:#ss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Social studies/Diversity/Socio-economic status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +105,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "239cd603a11eb6cc",
+  "active": "39381c4c28665e0f",
   "lastOpenFiles": [
-    "Chemistry/Organic chemistry/Organic Chemistry.md",
-    "Chemistry/Organic chemistry/Crude oil separation.md",
-    "Chemistry/Organic chemistry/Hydrocarbons.md",
-    "Chemistry/Salts/Salts.md",
-    "Chemistry/Salts/Reaction with MBC.md",
-    "Chemistry/Salts/Titration.md",
-    "Chemistry/Salts/Precipitation.md",
-    "Biology/Cells/Plant cells.md",
-    "Biology/Cells/Cells.md",
-    "Chemistry/Salts/Precipitaton.md"
+    "Social studies/Diversity/Religion.md",
+    "Social studies/Diversity/Socio-economic status.md",
+    "Social studies/Diversity/Diversity.md",
+    "Social studies/Diversity/Race and ethnicity.md",
+    "Social studies/Table of contents.md",
+    "Social studies/Deciding what is good for society/2.3/Ideas shaping governance.md",
+    "Social studies/Working for the good of society/Role of government/Ensuring justice.md",
+    "Social studies/Working for the good of society/Role of government/Internal order and external securities.md",
+    "Social studies/Globalisation/Living in a globalized world/Transportation.md",
+    "Social studies/Globalisation/Living in a globalized world/MNC.md"
   ]
 }

@@ -1,5 +1,7 @@
-# Internal order and external securities
-#ss
+---
+Tags: ["SS"]
+---
+# Managing Internal order and external securities
 ## Internal order
 Internal order is maintained in SG through different governmental organizations via ministry of home affairs
 - Singapore Police Force protects people who live in SG from crime and criminal harm, which incudes terrorism and public disorder.

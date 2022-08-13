@@ -1,5 +1,7 @@
+---
+Tags: ["SS"]
+---
 # Multi-National Companies
-#ss 
 
 Multi-National Companies are companies which has economical activities in more than one country. Due to MNCs rapid growth, they control a part of international trade and investment.
 
@@ -10,4 +12,4 @@ Foreign owned MNCs also benefit Singapore as it provides locals with employment 
 ### Samsung
 South Korea based MNC specialized in a wide variety of services, one of their most popular branch, Samsung electronic can employ workers in the country to work for their software and bring their phone technology to the country.
 
-It is so big that it covers almost 20% of South Koreas GDP.
+It is so big that it covers almost 20% of South Koreas GDP and it's ties with the South Korea's government is huge as South Korea government funded the expansion of Samsung.

@@ -1,6 +1,8 @@
+---
+Tags: ["SS"]
+---
 # What is globalisation
-#ss
-	Globalisation is is the process where the world becomes more integrated and interconnected which leads to interdependent relationships between countries.
+Globalisation is is the process where the world becomes more integrated and interconnected which leads to interdependent relationships between countries.
 
 There are advantages in a more interconnected world ranging from the better [[Transportation]],  more [[MNC]]s' and [[Advances in technology]]
 

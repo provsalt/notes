@@ -1,6 +1,7 @@
-# 2.3 Ideas shaping governance
 ---
-#ss
+Tags: ["SS"]
+---
+# Ideas shaping governance
 Use HAPPY without the Y for the guiding principals
 
 - **H**aving good leadership
