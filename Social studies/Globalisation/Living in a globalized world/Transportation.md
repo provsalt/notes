@@ -13,4 +13,4 @@ The extensive rail and road network provides better connectivity for the two cou
 Singapore has been working to expand the seaport to be more efficient and reliable to accommodate more ships which will increase the trade output, increasing Singapore's [[GDP]]
 
 ## Changi Airport
-Similarly, Singapore has became a well known for [[Tourism]] and [[Infrastructure and Services]] like the airport has to improve to serve more tourist. Examples include the expansion to add Terminal 4 and Jewel @ Changi.
+Similarly, Singapore has became a well known for [[Tourism]] like the airport has to improve to serve more tourist. Examples include the expansion to add Terminal 4 and Jewel @ Changi.

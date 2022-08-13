@@ -1,3 +1,6 @@
+---
+Tags: ["Chemistry"]
+---
 # Oxides
 Oxides ends with oxide and hydroxide
 Examples:

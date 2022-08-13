@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39381c4c28665e0f",
+        "id": "f96c829a6e7ba5db",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Social studies/Diversity/Socio-economic status.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ss",
+                "query": "National serv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social studies/Diversity/Socio-economic status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +100,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "39381c4c28665e0f",
+  "active": "f96c829a6e7ba5db",
   "lastOpenFiles": [
-    "Social studies/Diversity/Religion.md",
-    "Social studies/Diversity/Socio-economic status.md",
-    "Social studies/Diversity/Diversity.md",
-    "Social studies/Diversity/Race and ethnicity.md",
-    "Social studies/Table of contents.md",
-    "Social studies/Deciding what is good for society/2.3/Ideas shaping governance.md",
-    "Social studies/Working for the good of society/Role of government/Ensuring justice.md",
-    "Social studies/Working for the good of society/Role of government/Internal order and external securities.md",
+    "Chemistry/Air/Reducing air pollution.md",
     "Social studies/Globalisation/Living in a globalized world/Transportation.md",
-    "Social studies/Globalisation/Living in a globalized world/MNC.md"
+    "Infrastructure and Services.md",
+    "Geography/Tourism/Introduction to tourism/Promoting of tourism.md",
+    "Chemistry/Air/Pollutants.md",
+    "Chemistry/Air/Acid rain.md",
+    "Chemistry/Air/Composition.md",
+    "Chemistry/Acid and bases/Oxides.md",
+    "Chemistry/Air/Tests.md",
+    "Chemistry/Organic chemistry/Organic Chemistry.md"
   ]
 }

@@ -18,14 +18,14 @@
       "query": "path:Chemistry",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 5395168
       }
     },
     {
       "query": "path:English",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 11621088
       }
     },
     {
@@ -57,7 +57,7 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0.1,
   "nodeSizeMultiplier": 1.58722363728986,
@@ -67,6 +67,6 @@
   "repelStrength": 13.6566012783778,
   "linkStrength": 0.923633614171527,
   "linkDistance": 40,
-  "scale": 0.19450022690617788,
+  "scale": 0.27268599173603697,
   "close": false
 }
