@@ -1,5 +1,5 @@
 ---
-Tags: ["Geography", "Tourism"]
+Tags: ["Tourism"]
 ---
 # Ease of access to technology
 ## Online booking

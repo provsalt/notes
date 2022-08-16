@@ -1,7 +1,7 @@
 ---
-Tags: ["Geography",  "Tourism"]
+Tags: ["Tourism"]
 ---
- # Demand factors causing a rise in tourism
+# Demand factors causing a rise in tourism
  
  ## Disposable income
  

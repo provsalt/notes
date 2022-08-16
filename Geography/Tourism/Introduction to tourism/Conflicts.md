@@ -1,5 +1,5 @@
 ---
-tags:  ["Geography", "Tourism"]
+tags:  ["Tourism"]
 ---
 # Dark tourism
 Tourist usually visit historic sites of wars, conflicts and tragedies.

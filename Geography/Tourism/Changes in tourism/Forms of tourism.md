@@ -1,5 +1,5 @@
 ---
-Tags: ["Geography",  "Tourism"]
+Tags: ["Tourism"]
 ---
 # Mass tourism
 ## Package holidays

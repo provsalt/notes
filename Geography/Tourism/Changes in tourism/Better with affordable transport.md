@@ -1,5 +1,5 @@
 ---
-Tags: ["Geography", "Tourism"]
+Tags: ["Tourism"]
 ---
 
 # Development of technology

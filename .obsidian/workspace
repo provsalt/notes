@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f96c829a6e7ba5db",
+        "id": "54abf4d734eed809",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -100,17 +100,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f96c829a6e7ba5db",
+  "active": "54abf4d734eed809",
   "lastOpenFiles": [
-    "Chemistry/Air/Reducing air pollution.md",
-    "Social studies/Globalisation/Living in a globalized world/Transportation.md",
-    "Infrastructure and Services.md",
-    "Geography/Tourism/Introduction to tourism/Promoting of tourism.md",
-    "Chemistry/Air/Pollutants.md",
-    "Chemistry/Air/Acid rain.md",
-    "Chemistry/Air/Composition.md",
-    "Chemistry/Acid and bases/Oxides.md",
-    "Chemistry/Air/Tests.md",
-    "Chemistry/Organic chemistry/Organic Chemistry.md"
+    "Geography/Tourism/Impact of tourism/Social/Increased crime.md",
+    "Geography/Tourism/Impact of tourism/Social/Local heritage and culture.md",
+    "Geography/Tourism/Impact of tourism/Impacts of tourism.md",
+    "Geography/Tourism/Impact of tourism/Enviromental/Conservation of environment.md",
+    "Geography/Tourism/Impact of tourism/Enviromental/Increase congestion.md",
+    "Geography/Tourism/Impact of tourism/Enviromental/Vandalism.md",
+    "Geography/Tourism/Impact of tourism/Enviromental/Increased carbon footprint.md",
+    "Geography/Tourism/Impact of tourism/Enviromental/Litering and pollution.md",
+    "Geography/Tourism/Impact of tourism/Social/Preservation of local heritage.md",
+    "Geography/Tourism/Impact of tourism/Economical/Shortage of services.md"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-tags:  ["Geography", "Tourism"]
+tags:  ["Tourism"]
 ---
 # Heritage tourism
 They refer to people who travel to different location to experience different culture and understand the place history better.

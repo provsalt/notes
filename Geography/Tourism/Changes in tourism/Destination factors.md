@@ -1,5 +1,5 @@
 ---
-Tags: ["Geography",  "Tourism"]
+Tags: ["Tourism"]
 ---
 # Destination factors
 ## Attractions

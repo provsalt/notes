@@ -1,0 +1,3 @@
+# Underuse of facilities
+There are facilities that are designed for specific events and it could become underused once the event is over.
+Contrary to [[Development in infrastructure and services]], the locals are not using the infrastructure and the facilities after the events has taken place. For example in China where they built a lot of venues for the 2008 Beijing Olympics but due to neglect, some were renovated such as the Beijing national aquatic centre which was renovated to a water park.
