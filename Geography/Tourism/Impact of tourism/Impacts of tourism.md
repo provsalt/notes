@@ -25,7 +25,4 @@ There are three types of impacts
 	- [[Conservation of environment]]
 	
 	Negative
-	- [[Increase congestion]]
-	- [[Vandalism]]
-	- [[Increased carbon footprint]]
-	- [[Litering and pollution]]
+	- [[Negative impacts]]

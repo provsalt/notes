@@ -6,7 +6,8 @@ MICE Stands for meetings, incentives conventions and events
 These places are places to hold large scale events and has different infrastructure and services to cater to tourist.
 This are built to compete with other countries as they need to adapt and [[Ideas shaping governance#^f8600a]]
 
-Eg: Singapore expo, integrated resorts, marina bay sands
+Eg: Singapore expo, sentosa, marina bay sands
+Integrated resorts causes [[Employment opportunities]] and [[Growth in income]] due to tourist arrivals however it has been criticised for creating gambling addiction See [[Ideas shaping governance#Integrated resorts]] for more info on how they combat the gambling addictions.
 
 # Medical tourism
 People may travel to different countries to seek better healthcare treatment.

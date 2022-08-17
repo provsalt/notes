@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "54abf4d734eed809",
+        "id": "ac27d4bf1230a5a2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Geography/Plate tectonics/Plate movements/Internal structure of the earth.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geography/Plate tectonics/Plate movements/Internal structure of the earth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +105,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "54abf4d734eed809",
+  "active": "ac27d4bf1230a5a2",
   "lastOpenFiles": [
-    "Geography/Tourism/Impact of tourism/Social/Increased crime.md",
-    "Geography/Tourism/Impact of tourism/Social/Local heritage and culture.md",
-    "Geography/Tourism/Impact of tourism/Impacts of tourism.md",
-    "Geography/Tourism/Impact of tourism/Enviromental/Conservation of environment.md",
-    "Geography/Tourism/Impact of tourism/Enviromental/Increase congestion.md",
-    "Geography/Tourism/Impact of tourism/Enviromental/Vandalism.md",
-    "Geography/Tourism/Impact of tourism/Enviromental/Increased carbon footprint.md",
-    "Geography/Tourism/Impact of tourism/Enviromental/Litering and pollution.md",
-    "Geography/Tourism/Impact of tourism/Social/Preservation of local heritage.md",
-    "Geography/Tourism/Impact of tourism/Economical/Shortage of services.md"
+    "Geography/Plate tectonics/Plate movements/Plate movement.md",
+    "Geography/Plate tectonics/Structures/Rift valley and block mountains.md",
+    "Geography/Plate tectonics/Structures/Fold mountains.md",
+    "Geography/Tourism/Introduction to tourism/Good facilities.md",
+    "Social studies/Deciding what is good for society/2.3/Ideas shaping governance.md",
+    "Geography/Tourism/Introduction to tourism/Promoting of tourism.md",
+    "Geography/Tourism/Introduction to tourism/Rich culture.md",
+    "Geography/Tourism/Introduction to tourism/Scenic beauty.md",
+    "Geography/Tourism/Introduction to tourism/Tourism.md",
+    "Geography/Tourism/Impact of tourism/Enviromental/Negative impacts.md"
   ]
 }

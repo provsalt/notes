@@ -6,6 +6,8 @@ They refer to people who travel to different location to experience different cu
 
 Heritage sites are important as they reinforce the culture for domestic tourist
 
+In Singapore, there is the Chinatown Heritage Centre where it shows visitors the living conditions of Chinatown in the 90's. 
+
 # Film induced tourism
 Film induced tourism is where tourist visit places where film or movie has took place..
 Eg: Lord of the rings, NZ, Crazy rich Asians, SG
