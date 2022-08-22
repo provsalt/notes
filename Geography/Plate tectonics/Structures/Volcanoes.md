@@ -1,8 +1,11 @@
 ---
 Tags: ["Geography", "Plate-Tectonics"]
+alias: ["Volcano"]
 ---
 
 # Volcanoes
+Volcanoes can be formed in many ways (check linked mentions)
+
 ## Shield volcanoes
 Shield volcanoes have low silica lava which makes it flow easily and makes it easy to be spread out. which makes the shape more flat and have gentle slope sides compared to stratovolcanoes.
 

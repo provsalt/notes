@@ -1,5 +1,5 @@
 ---
-Tags: ["Geography", "Plate-Tectonics"]
+Tags: ["Plate-Tectonics"]
 ---
 # Plate movement
 ## Convection current

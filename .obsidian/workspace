@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ac27d4bf1230a5a2",
+        "id": "6bd13c32c8bfdea1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Geography/Plate tectonics/Plate movements/Internal structure of the earth.md",
+            "file": "Principal of accounts/Non current assets/NCA.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Plate tectonics/Plate movements/Internal structure of the earth.md",
+                "file": "Principal of accounts/Non current assets/NCA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ac27d4bf1230a5a2",
+  "active": "6bd13c32c8bfdea1",
   "lastOpenFiles": [
-    "Geography/Plate tectonics/Plate movements/Plate movement.md",
-    "Geography/Plate tectonics/Structures/Rift valley and block mountains.md",
-    "Geography/Plate tectonics/Structures/Fold mountains.md",
-    "Geography/Tourism/Introduction to tourism/Good facilities.md",
-    "Social studies/Deciding what is good for society/2.3/Ideas shaping governance.md",
-    "Geography/Tourism/Introduction to tourism/Promoting of tourism.md",
-    "Geography/Tourism/Introduction to tourism/Rich culture.md",
-    "Geography/Tourism/Introduction to tourism/Scenic beauty.md",
-    "Geography/Tourism/Introduction to tourism/Tourism.md",
-    "Geography/Tourism/Impact of tourism/Enviromental/Negative impacts.md"
+    "Principal of accounts/Equities/Equity.md",
+    "Principal of accounts/03 Accounting equation/Accounting equation.md",
+    "Principal of accounts/Non current assets/NCA.md",
+    "Principal of accounts/02 Accounting information system/Source documents.md",
+    "Principal of accounts/Equities/Equities.md",
+    "Principal of accounts/All theories.md",
+    "Principal of accounts/Trade receivables/Trade receivables.md",
+    "Principal of accounts/Trade receivables/Trade receivable impairment.md",
+    "Principal of accounts/Trade receivables/Theories.md",
+    "Principal of accounts/Trial balance/Trial balance.md"
   ]
 }
