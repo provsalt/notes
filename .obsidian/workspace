@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6bd13c32c8bfdea1",
+        "id": "44d89046d3783408",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Principal of accounts/Non current assets/NCA.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principal of accounts/Non current assets/NCA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +100,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6bd13c32c8bfdea1",
+  "active": "44d89046d3783408",
   "lastOpenFiles": [
-    "Principal of accounts/Equities/Equity.md",
-    "Principal of accounts/03 Accounting equation/Accounting equation.md",
-    "Principal of accounts/Non current assets/NCA.md",
-    "Principal of accounts/02 Accounting information system/Source documents.md",
-    "Principal of accounts/Equities/Equities.md",
-    "Principal of accounts/All theories.md",
-    "Principal of accounts/Trade receivables/Trade receivables.md",
-    "Principal of accounts/Trade receivables/Trade receivable impairment.md",
-    "Principal of accounts/Trade receivables/Theories.md",
-    "Principal of accounts/Trial balance/Trial balance.md"
+    "Biology/11 Reproduction in humans/Ovum.md",
+    "Biology/11 Reproduction in humans/Menstrual cycle.md",
+    "Biology/11 Reproduction in humans/Sperm.md",
+    "Biology/10 Reproduction in plants/Fertilisation.md",
+    "Biology/10 Reproduction in plants/Pollination.md",
+    "Biology/10 Reproduction in plants/Asexual and Sexual reproduction.md",
+    "Biology/10 Reproduction in plants/Structure of a flower.excalidraw.md",
+    "Biology/10 Reproduction in plants/Reproduction in plants.pdf",
+    "Drawing 2022-08-24 10.08.35..md",
+    "Geography/Food resources/High yield variety.md"
   ]
 }
