@@ -25,4 +25,4 @@ There are three types of impacts
 	- [[Conservation of environment]]
 	
 	Negative
-	- [[Negative impacts]]
+	- [[Geography/Tourism/Impact of tourism/Enviromental/Negative impacts]]
