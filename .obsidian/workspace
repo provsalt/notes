@@ -7,12 +7,8 @@
         "id": "30161e28a3fd9120",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +100,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "21f8feb3dfe7fc73",
+  "active": "30161e28a3fd9120",
   "lastOpenFiles": [
+    "Chemistry/Metals/Extraction of Iron.md",
+    "Chemistry/Metals/Metals.md",
+    "README.md",
     "Social studies/10 Cultural impact of globalisation/Cultural homogenisation.md",
     "Social studies/10 Cultural impact of globalisation/Cultural hybridisation.md",
     "Social studies/07 Assimilation Vs Integration/Healthcare approcahes.md",
     "Homogenisation.md",
     "Social studies/10 Cultural impact of living in globalized world/CUltural hybridization.md",
     "Social studies/09 Economical impact of globalisation/Individuals impact on globalisation.md",
-    "Social studies/09 Economical impact of globalisation/Companies impact on globalisation.md",
-    "Social studies/09 Economical impact of globalisation/Countries impact on globalisation.md",
-    "Principal of accounts/01 Introduction to accounting/Business.md",
-    "Social studies/08 Globalisation/Advances in technology.md"
+    "Social studies/09 Economical impact of globalisation/Companies impact on globalisation.md"
   ]
 }
