@@ -1,5 +1,5 @@
 ---
-Tags: ["Tourism"]
+Tags: ["Geography"]
 ---
 # Who promotes tourism?
 There are 3 different groups that promote tourism. Mostly cheap and affordable places or has good Infrastructure and Services will attract more tourist

@@ -1,5 +1,5 @@
 ---
-Tags: ["Plate-Tectonics"]
+Tags: ["Geography"]
 ---
 # Fold mountains
 There are two types of folds, syncline (downfold) and anticline fold (upfold).

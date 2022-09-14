@@ -1,5 +1,5 @@
 ---
-tags:  ["Tourism"]
+Tags: ["Geography"]
 ---
 # Honeypot tourism
 - Usually natural environments and not man made

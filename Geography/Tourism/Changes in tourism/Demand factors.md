@@ -1,5 +1,5 @@
 ---
-Tags: ["Tourism"]
+Tags: ["Geography"]
 ---
 # Demand factors causing a rise in tourism
  

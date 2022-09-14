@@ -1,5 +1,5 @@
 ---
-Tags: ["Tourism"]
+Tags: ["Geography"]
 ---
 # Impacts of tourism
 There are three types of impacts

@@ -1,5 +1,5 @@
 ---
-Tags: ["Geography", "Plate-Tectonics"]
+Tags: ["Geography"]
 ---
 # Internal structure of the earth
 Earth internal structure is like an egg. Core is the yolk, mantle as the egg white and the shell as the crust.

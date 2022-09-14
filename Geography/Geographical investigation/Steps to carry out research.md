@@ -13,7 +13,7 @@ Steps:
 # Guiding question and hypothesis
 Guiding question leads you to the hypothesis
 Eg: Do European tourist come to Singapore for eco-tourism?
-Eg: Is Singapore rainfall considered moderate?
+Eg: Is Singapore rainfall considered moderate.
 
 Hypothesis is a statement that you want to prove or disprove.
 
