@@ -1,3 +1,6 @@
+---
+Tags: Geography
+---
 # Air pressure
 Air pressure refers to the force exerted on a unit area of the earth's surface by the height of a column of air above it
 Air pressure is measured in millibars while measuring it involves a barometer

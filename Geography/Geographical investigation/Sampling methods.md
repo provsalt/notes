@@ -1,7 +1,7 @@
 ---
 Tags: Geography
 ---
-
+# Sampling methods
 ## Systematic sampling
 Collect data at regular intervals
 Eg: Every 5 tourist, ask them a [[Gathering data#Questionnaire]]

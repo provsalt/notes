@@ -1,3 +1,6 @@
+---
+Tags: Geography
+---
 # Deforestation
 Deforestation is the largest contributor to greenhouse gases. (DEADL)
 Deforestation occurs when forests are cleared to 

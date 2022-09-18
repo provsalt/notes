@@ -1,3 +1,6 @@
+---
+Tags: Geography
+---
 # Monsoon winds
 Monsoon are regional winds which reverse directions seasonally.
 Monsoon winds is highly affected by [[Coriolis effect]] which causes directions of winds to change.
