@@ -1,23 +1,19 @@
-  # Animal cells
+# Animal cells
 #Biology
 ## Protoplasm
-#### Cytoplasm
+### Cytoplasm
 - Contains Mitochondria and ribosomes
 - Site where most activity occurs
-
-#### Nucleus
-
+### Nucleus
 - Controls cell activity such as cell growth and cell division.
 - Contains DNA that stores DNA information
-
-#### Cell membrane / Plasma membrane
+### Cell membrane / Plasma membrane
 It is partially permeable which allows some substances to pass through
 Some examples include:
 - Water / Mineral salts
 - Oxygen
 - Glucose
 Via either diffusion or osmosis
-
 ## Vacuole
 Compared to [[Plant cells#Large central vacuole]], animal cells have small temporary vacuole that stores water and nutrients.
 

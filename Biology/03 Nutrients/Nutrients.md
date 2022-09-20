@@ -1,5 +1,7 @@
+---
+Tags: Biology
+---
 # Nutrients
-#Biology 
 Nutrients are chemical substances in food that provides energy and materials needed by the body
 They are all organic compounds something like methane in [[Organic Chemistry]].
 

@@ -28,8 +28,6 @@ Having more energy allows particles to spread out randomly at a higher speed
 
 ##### Temperature
 Higher temperature will increase kinetic energy which will increase the particles movement speed
-
-
 # Osmosis
 #### Definition
 Osmosis is the net movement of **water molecules** from a region of higher water potential to a region of lower water potential through  a **partially permeable membrane** (cell membrane) till equilibrium is reached. 

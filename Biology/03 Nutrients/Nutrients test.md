@@ -1,5 +1,7 @@
+---
+Tags: Biology
+---
 # Iodine test
-#Biology 
 1. Firstly place leaf in boiling water to remove waxy cuticle found on the leaf
 2. Remove leaf from boiling water and add alcohol to remove epidermis cell protecting the lead
 3. Wash leaf to remove excess alcohol

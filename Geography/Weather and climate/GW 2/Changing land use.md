@@ -4,7 +4,7 @@ Tags: Geography
 # Changing land use
 Over the years, there has been changing land use as our population has increased which caused land to be urbanised and designed for people to live in.
 ## Agriculture
-Agriculture use of land has increased as there is a higher population and change in [[Food consumption]] in less developed countries which causes [[Deforestation]] to produce crops for food.
+Agriculture use of land has increased as there is a higher population and change in [[Food preference]] in less developed countries which causes [[Deforestation]] to produce crops for food.
 These changes in food consumption also increases the need for cattle farming and cattle releases methane as a waste gas as less developed countries shift from cereals to meat consumption.
 ## Industries
 Industries refers to the production of goods and services within a country.

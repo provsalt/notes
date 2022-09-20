@@ -17,4 +17,4 @@ In 2008 during the global financial crisis, there was a collapse of housing mark
 Political situations are times of conflicts between groups of people that result in a war.
 This may cause infrastructure and services to be shut down and be damaged.
 Eg: In 2011, Libya had a civil war and most governments discouraged tourist to travel to Libya.
-Eg in 2022, Sri Lanka economy has went down by a lot and poor decisions by the government due to not [[Ideas shaping governance#Having good leadership]]. This cause fights and protest to take place in the country and even [[Looting]] for [[Food consumption|Food]].
+Eg in 2022, Sri Lanka economy has went down by a lot and poor decisions by the government due to not [[Ideas shaping governance#Having good leadership]]. This cause fights and protest to take place in the country and even [[Looting]] for [[Food preference|Food]].

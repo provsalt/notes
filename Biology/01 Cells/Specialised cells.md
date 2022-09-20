@@ -1,8 +1,8 @@
+---
+Tags: Biology
+---
 # Types of specialise cells
-#Biology 
-
 ## Red blood cells
-
 ![[rbc.jpg|300]]
 - Contains haemoglobin to carry oxygen for respiration
 -  **It is circular and has a biconcave shape

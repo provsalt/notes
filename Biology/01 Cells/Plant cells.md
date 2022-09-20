@@ -1,14 +1,21 @@
+---
+Tags: Biology
+---
 # Plants cells
-#Biology 
-
 ## Protoplasm
-
 #### Cytoplasm
-![[Animal cells#Cytoplasm]]
+- Contains Mitochondria and ribosomes
+- Site where most activity occurs
 #### Nucleus
-![[Animal cells#Nucleus]]
-#### Cell membrane/ Plasma membrane
-![[Animal cells#Cell membrane Plasma membrane]]
+- Controls cell activity such as cell growth and cell division.
+- Contains DNA that stores DNA information
+#### Cell membrane / Plasma membrane
+It is partially permeable which allows some substances to pass through
+Some examples include:
+- Water / Mineral salts
+- Oxygen
+- Glucose
+Via either diffusion or osmosis
 ## Cell wall
 Provides the plant it's fixed shape
 Protects the cell from injury

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "298ffaaf35598b6f",
+        "id": "5bbf458b0a1b58a1",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Biology",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "298ffaaf35598b6f",
+  "active": "5bbf458b0a1b58a1",
   "lastOpenFiles": [
-    "Geography/Food resources/GW 1/Human development index.md",
-    "Geography/Geographical investigation/GI MOC.md",
-    "Geography/Geographical investigation/Steps to carry out research.md",
-    "Geography/Geographical investigation/Sampling methods.md",
-    "Geography/Geographical investigation/Gathering data.md",
-    "Geography/Food resources/GW 1/Food consumption.md",
-    "Geography/Food resources/Food MOC.md",
-    "Social studies/09 Economical impact of globalisation/GDP.md",
-    "Geography/Food resources/High yield variety.md",
-    "Chemistry/Air/Acid rain.md"
+    "Biology/06 Nutrition in plants/Photosynthesis.md",
+    "Biology/09 Respiration in humans/Respiration.md",
+    "Biology/06 Nutrition in plants/Nutrition in plants.pdf",
+    "Biology/06 Nutrition in plants/Factors affecting photosynthesis.md",
+    "Biology/05 Nutrition in humans/Enzymes found in digestion.md",
+    "Biology/04 Enzymes/Factors affecting enzymes.md",
+    "Biology/05 Nutrition in humans/Villus.md",
+    "Biology/05 Nutrition in humans/Digestion.md",
+    "Biology/04 Enzymes/Lock and key hypothesis.md",
+    "Biology/04 Enzymes/Enzymes.md"
   ]
 }

@@ -3,6 +3,7 @@ Tags: Biology
 ---
 
 # Factors affecting enzyme rate
+Use the [[Lock and key hypothesis]] when answering to help structure your answer.
 ## Temperature
 - Most enzymes are inactive at low temperatures and when temperatures are high, the enzymes may denature as the enzyme could not fit with the substrate anymore.
 - As temperature increases, there is more kinetic energy due to the [[Three state on matter]]. This allows the enzyme to form enzyme-substrate complex faster.
@@ -10,4 +11,4 @@ Tags: Biology
 
 ## pH
 - Different enzymes have different optimal pH and pH range. Some enzyme may only be active at acidic pH while some are active in alkaline pH.
-- The pH changes the shape of the enzyme and therefore when substrate cannot fit into the enzyme, the enzyme is denatured.
+- The pH changes the shape of the enzyme and therefore the substrate cannot fit into the enzyme as it is no longer complementary causing the enzyme is denatured.
