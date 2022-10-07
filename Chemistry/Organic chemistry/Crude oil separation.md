@@ -8,3 +8,9 @@ The separated petrol can be used for [[Transportation]]
 
 Seperrations
 - Petroleum
+- Petrol
+- Kerosene
+- Naptha
+- Diesel
+- Lubricating oil
+- Bitumen

@@ -1,0 +1,2 @@
+# Coronary heart disease
+Coronary heart disease is the caused by fatty deposits in the inner walls of the coronary [[Artery]] which causes blood to flow through the coronary artery harder. This causes symptoms such as being tired easily.

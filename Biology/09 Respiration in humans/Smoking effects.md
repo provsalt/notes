@@ -5,7 +5,6 @@ Tags: Biology
  - Nicotine is highly addictive hence it's hard to stop smoking.
 - Nicotine increases the production of adrenaline hormone which increases heart rate.
 - Nicotine increases blood clot in the arteries which increases heart disease.
-
 ## Tar
 - Increase the risk of cancer due to uncontrolled cell division.
 - Paralyse cilia lining which leads to chronic bronchitis thus mucus cannot be cleared and increases difficulties in breathing.
