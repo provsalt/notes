@@ -3,7 +3,6 @@ Tags: POA
 ---
 # Impairment loss on TR
 Impairment loss on TR is the expense reported when credit customers are unlikely to pay their debts.
-
 Increase the allowance from last year
 | Date | Particulars                      | Dr   | Cr   |
 | ---- | -------------------------------- | ---- | ---- |
@@ -11,14 +10,12 @@ Increase the allowance from last year
 |      | Dr Impairment loss on TR         | 500 |      |
 |      | Cr Allowance of impairment of TR |      | 500 |
 How to remember: Impairment is debit nature, hence debit to increase the impairment.
-
 Reduce allowance from last year. Estimated decreased.
 | Date | Particulars                             | Dr  | Cr  |
 | ---- | --------------------------------------- | --- | --- |
 | 20x1 |                                         | $   | $   |
 |      | Dr Allowance of impairment of TR        | 500 |     |
 |      | Cr Impairment loss on TR (==reversal==) |     | 500 |
-
 ## Adjust increase/decrease in impairment of TR in financial statements
 Increase/Beginning allowance due to more estimated uncollectable
 | Statement of financial position for the year ended January 20x1 | (Extract) |     |
@@ -39,12 +36,8 @@ Reduce trade receivable balance from financial position
 | Current assets                                     | \$     | \$                       | \$             |
 | Trade receivables                                  | 20000  |                          |                |
 | Less: Allowance for impairment of trade receivable | (1000) | 19000                    |                |
-
-
-
 # Allowance for impairment of TR
 Similarly, allowance for impairment of TR is the estimated amount of uncollected debt. (predict in advance)
-
 To estimate allowance for impairment of TR:
 | Date | Particulars                      | Dr   | Cr   |
 | ---- | -------------------------------- | ---- | ---- |

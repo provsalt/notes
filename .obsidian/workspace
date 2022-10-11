@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a82a30b0dc700993",
+        "id": "9b8b529798246bd2",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -15,103 +15,80 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4966e74f60bb7181",
-    "type": "split",
+    "id": "7ef2feff822d81cb",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "cfee76c6051a8eed",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "21f8feb3dfe7fc73",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "cef6eba0025434e9",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#Biology",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "a581caa31dfd7b8b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "f040baa4fbfb01ca",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "2163c263d41b8a11",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 264.5
+    "currentTab": 0
   },
   "right": {
-    "id": "b6e78efbd402f19d",
-    "type": "split",
+    "id": "3629dc4cf5e0b5a8",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "0759cfbddf95b49f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0a4176618b88d1cd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "1e7dc8a643957bb2",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "dfaadf2e657a8fe3",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
+        "id": "2469542bd8f5a011",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "a82a30b0dc700993",
+  "active": "9b8b529798246bd2",
   "lastOpenFiles": [
+    "Biology/10 Reproduction in plants/Fertilisation.md",
+    "Math/Math formulas.md",
     "Math/Drawing 2022-10-03 20.51.43.excalidraw.md",
-    "Biology/Biology MOC.md",
-    "Biology/09 Respiration in humans/Functions of alveoli.md",
-    "Biology/11 Reproduction in humans/Menstrual cycle.md",
-    "Biology/01 Cells/Cells.md",
-    "Biology/07 Transport in humans/Circulatory system.md",
-    "Biology/11 Reproduction in humans/Sperm.md",
-    "Biology/11 Reproduction in humans/Ovum.md",
-    "Biology/09 Respiration in humans/Respiration.md",
-    "Biology/05 Nutrition in humans/Enzymes found in digestion.md"
+    "Biology/06 Nutrition in plants/Photosynthesis.md",
+    "Principal of accounts/08 Trial balance/Trial balance.md",
+    "Principal of accounts/Non current assets/NCA.md",
+    "Principal of accounts/Trade receivables/Trade receivable impairment.md",
+    "Principal of accounts/Trade receivables/Theories.md",
+    "Principal of accounts/Trade receivables/Trade receivables.md",
+    "Principal of accounts/03 Accounting equation/Accounting equation.md"
   ]
 }
