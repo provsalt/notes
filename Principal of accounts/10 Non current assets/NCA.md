@@ -21,3 +21,6 @@ Straight line method = (cost - scrap value)  / useful life
 Reducing balance method = Net book value * rate of depreciation
 ### Materiality theory 
 Materiality theory states that relevant information should be reported in the financial statements if it's unlikely to make a difference to the decision-making process. If the business is rich, certain capital expenditure can be considered revenue expenditure as it is insignificant to the business. 
+
+## Consistancy theory
+Consistancy theory states that the depreciation method should not be changed once decided for meaningful comparison.

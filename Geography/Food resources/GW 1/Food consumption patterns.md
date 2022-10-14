@@ -3,7 +3,7 @@ Tags: Geography
 ---
 # Food consumption patterns
 Food consumption can be caused by different reasons.
-- [[Political]]
+- [[00 Secondary school/Geography/Food resources/GW 1/Factors/Political]]
 - [[Economical]]
 - [[Social-cultural]]
 

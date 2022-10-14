@@ -14,7 +14,7 @@ causing wilting ^nrNAxFUH
 
 
 # Embedded files
-41595b63163ffaeb9a88b7105c0ec2d894a6bffb: [[Biology/06 Nutrition in plants/Leaf.png]]
+41595b63163ffaeb9a88b7105c0ec2d894a6bffb: [[Leaf.png]]
 
 %%
 # Drawing

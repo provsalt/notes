@@ -6,7 +6,7 @@ Salts is an ionic compound that can be obtained in many ways. Examples include [
 
 ## Preparation of salts
 1. [[Titration]]
-2. [[Chemistry/Salts/Precipitation]]
+2. [[00 Secondary school/Chemistry/Salts/Precipitation]]
 3. [[Reaction with MBC]]
 
 ## Solubility of salts

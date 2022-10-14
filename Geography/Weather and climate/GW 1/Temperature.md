@@ -12,7 +12,7 @@ Temperature can be classified into 3 categories
 	>10℃ < 20℃ moderate
 	> 20℃ high
 Temperature can be affected in many ways as explained in [[Factors affecting temperature]]
-- [[Geography/Weather and climate/GW 1/Factors/Clouds]]
+- [[Clouds]]
 - [[Latitude]]
 - [[Altitude]]
 - [[Distance from sea]]

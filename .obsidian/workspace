@@ -7,8 +7,12 @@
         "id": "9b8b529798246bd2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Geography/Weather and climate/GW 1/Climate types.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Geography/Weather and climate/GW 1/Climate types.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -80,15 +85,15 @@
   },
   "active": "9b8b529798246bd2",
   "lastOpenFiles": [
+    "Principal of accounts/04 Double entries recording/Double entry rule.md",
+    "Principal of accounts/10 Non current assets/NCA.md",
+    "Principal of accounts/11 Income and expenses/Income and expenses.md",
     "Biology/10 Reproduction in plants/Fertilisation.md",
     "Math/Math formulas.md",
     "Math/Drawing 2022-10-03 20.51.43.excalidraw.md",
     "Biology/06 Nutrition in plants/Photosynthesis.md",
     "Principal of accounts/08 Trial balance/Trial balance.md",
     "Principal of accounts/Non current assets/NCA.md",
-    "Principal of accounts/Trade receivables/Trade receivable impairment.md",
-    "Principal of accounts/Trade receivables/Theories.md",
-    "Principal of accounts/Trade receivables/Trade receivables.md",
-    "Principal of accounts/03 Accounting equation/Accounting equation.md"
+    "Principal of accounts/Trade receivables/Trade receivable impairment.md"
   ]
 }
