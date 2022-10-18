@@ -1,3 +1,6 @@
+---
+Tags: "MOC"
+---
 [[Business]]
 [[Role of accounts]]
 [[Stakeholders]]

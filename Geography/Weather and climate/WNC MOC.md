@@ -1,5 +1,5 @@
 ---
-Tags: ["Geography"]
+Tags: ["Geography", "MOC"]
 ---
 Gateway 1
 [[Weather and Climate]]

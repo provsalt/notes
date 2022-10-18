@@ -1,5 +1,5 @@
 ---
-Tags: ["Geography"]
+Tags: ["Geography", "MOC"]
 ---
 [[Tourism]]
 [[Scenic beauty]]
@@ -16,13 +16,3 @@ Tags: ["Geography"]
 [[Trend of tourism]]
 
 [[Impacts of tourism]]
-[[Development in infrastructure and services]]
-[[Employment opportunities]]
-[[Growth in income]]
-[[Seasonal unemployment]]
-[[Shortage of services]]
-[[Underuse of facilities]]
-[[Increased crime]]
-[[Local heritage and culture]]
-[[Conservation of environment]]
-[[Negative impacts]]

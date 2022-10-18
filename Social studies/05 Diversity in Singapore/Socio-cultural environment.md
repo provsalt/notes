@@ -8,6 +8,6 @@ There is a presence of different ethnic communities and culture for migrants to 
 Singapore is ranked one of the best education system in the world as it provides high standards and is admired for it's effectiveness where migrants are able to learn and expand their knowledge
 
 ## Safe environment
-Singapore has [[Low crime rates]] which is a factor for migrants to consider to make Singapore their second home
+Singapore has a safe environment due to the low crime rates which is a factor for migrants to consider to make Singapore their second home
 
 Singapore laws play a role in ensuring the relatively low crime rate we have here.

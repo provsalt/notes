@@ -1,3 +1,6 @@
+---
+Tags: "MOC"
+---
 # Human factors
 [[Political factors]]
 [[Economical factors]]

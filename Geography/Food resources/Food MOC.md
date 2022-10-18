@@ -1,5 +1,5 @@
 ---
-Tags: Geography
+Tags: ["Geography", "MOC"]
 ---
 # Food resources
 Food resources is the exploration of food. 
@@ -12,6 +12,7 @@ Gateway 1:
 	[[Economical]]
 	[[Social-cultural]]
 Consequences
+	[[Vicious cycle]]
 	Inadequate
 		[[00 Secondary school/Geography/Food resources/GW 1/Consequences/Inadequete/Economical impacts]]
 		[[Malnutrition and starvation]]

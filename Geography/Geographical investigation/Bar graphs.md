@@ -2,8 +2,7 @@
 Tags: Geography
 ---
 # Bar graphs
-Bar graphs allows multiple data to be easily compared to different sets of data
- allowing patterns to be found easily.
+Bar graphs allows multiple data to be easily compared to different sets of data allowing patterns to be found easily.
  
  However it is also hard to predict trends and changes over time cannot be mapped.
 

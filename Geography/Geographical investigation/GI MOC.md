@@ -1,5 +1,5 @@
 ---
-Tags: ["Geography"]
+Tags: ["Geography", "MOC"]
 ---
 [[Steps to carry out research]]
 [[Sampling methods]]

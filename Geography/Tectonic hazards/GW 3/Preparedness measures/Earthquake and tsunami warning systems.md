@@ -1,0 +1,3 @@
+Earthquakes can be monitored by earthquake sensors and can alert people the estimated areas an earthquake could happen at a time.
+This allows the relevant authorities to be able to arrange for the area which the earthquake is likely to hit to be evacuated, thereby saving the lives of the people staying there.
+However, earthquake occurs seconds after a warning which does not provide sufficient time to evacuate from a location and earthquake monitoring devices are expensive to install, operate and maintain.

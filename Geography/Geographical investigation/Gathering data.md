@@ -3,10 +3,8 @@ Tags: Geography
 ---
 # Gathering data
 There are two of the prominent ways to gather data to prove the hypothesis.
-
 ## Primary data
 Data that you collect through the investigation
-
 ### Sampling
 Sampling can be done to collect data from total population by taking a sample (a small group of the population)
 
@@ -17,7 +15,6 @@ A questionnaire can be a set of questions to be answered by a group of people.
 The guiding question should guide you to the questions that you are creating.
 
 There are differences between a close ended question and an open ended question. A close ended question typically only allow you to choose between the choices like yes or no however open ended allows a person to give more in depth details. Therefore close ended questions are better to answer hypothesis.
-
 ### Interview 
 Interviews are one to one face to face meeting between the interviewer and the interviewee
 
@@ -25,7 +22,6 @@ To get an interviewee:
 1. Identify the potential interviewee through the [[Sampling methods]] 
 2. Introduce yourself and provide your objective.
 3. Invite the interviewee and appreciate them for their effort.
-
 ### Bipolar survey
 Bipolar survey is used widely as it uses a scale to measure and evaluate perception
 Example of a response from a responder about a park

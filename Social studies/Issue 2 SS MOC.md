@@ -1,3 +1,6 @@
+---
+Tags: "MOC"
+---
 [[Diversity]]
 [[Nationality]]
 [[Race and ethnicity]]

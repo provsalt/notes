@@ -1,0 +1,2 @@
+Infrastructure refers to the facilities and system serving the country. Advanced engineering are used to withstand the vibration from earthquakes. For example the use of reinforced concrete on buildings that can withstand high pressure and the use of trips switches in Japan to prevent fires from breaking out when an earthquake occurs.
+This allows for fewer lives loss with fewer infrastructure to collapse and cases of fire breakouts and allow for faster rescues and evacuation. However, reinforced infrastructure remains untested until an earthquake occurs.

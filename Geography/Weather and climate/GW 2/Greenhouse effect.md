@@ -1,5 +1,5 @@
 ---
-Tags: Geography
+Tags: ["Geography", "MOC"]
 ---
 # Greenhouse effect
 Greenhouse effect is a natural process which is essential to life on earth.

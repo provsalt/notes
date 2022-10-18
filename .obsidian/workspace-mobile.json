@@ -4,12 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9b8b529798246bd2",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+        "id": "ae83bc3633ad771b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4db48e3767e73c9c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -23,7 +29,9 @@
         "type": "leaf",
         "state": {
           "type": "file-explorer",
-          "state": {}
+          "state": {
+            "sortOrder": "alphabetical"
+          }
         }
       },
       {
@@ -78,7 +86,10 @@
     ],
     "currentTab": 0
   },
-  "active": "9b8b529798246bd2",
+  "ribbon": {
+    "mostRecentAction": "Open graph view"
+  },
+  "active": "4db48e3767e73c9c",
   "lastOpenFiles": [
     "Geography/Weather and climate/GW 1/Climate types.md",
     "Principal of accounts/04 Double entries recording/Double entry rule.md",

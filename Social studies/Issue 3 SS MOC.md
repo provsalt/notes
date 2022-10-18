@@ -1,3 +1,6 @@
+---
+Tags: "MOC"
+---
 [[Globalisation]]
 [[Advances in technology]]
 [[MNC]]

@@ -1,3 +1,6 @@
+---
+Tags: "MOC"
+---
 [[Citizenship]]
 [[Ways to obtain citizenship]]
 [[Constitution]]

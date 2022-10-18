@@ -1,0 +1,4 @@
+## Search and rescue
+Search and rescue allows people trapped under buildings to be located and found. This allows more lives to be saved However rescue workers have a limited time of 72 hours to find trapped survivors as without food and water, trapped survivors are unlikely to survive.
+## Provision of emergency food and medical supplies
+Provision of emergency food and medical supplies allows for survivors that lost their homes access to basic necessities to survive. This allows for survivors to continue with their day to day life unaffected, However these supplies are limited and may not be sufficient for everyone which may cause looting to occur.
