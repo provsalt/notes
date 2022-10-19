@@ -26,3 +26,8 @@ Gateway 2 focuses on the different physical and human factors that causes intens
 Gateway 2:
 [[Physical factors]]
 [[Human factors]]
+Food shortages.
+[[Physical shortage factors]]
+[[Political shortage factors]]
+[[Economical shortage factors]]
+[[Social shortage factors]]

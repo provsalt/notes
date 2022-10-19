@@ -16,3 +16,6 @@ Tags: ["Geography", "MOC"]
 [[Trend of tourism]]
 
 [[Impacts of tourism]]
+[[Sustainable tourism]]
+[[Tensions in managing tourism]]
+[[Responsibilities of managing tourism]]

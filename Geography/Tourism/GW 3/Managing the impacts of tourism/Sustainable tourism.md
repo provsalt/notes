@@ -1,0 +1,3 @@
+Sustainable tourism is a form of tourism organised in a way that allows it to continue without causing damage to the environment or leave negative impacts on the society and culture.
+This leads to different people who are responsible for managing the impact of tourism.
+Sustainable tourism also ensures that tourist receipts leakage are minimize by training locals in the tourism sector and promoting local food.

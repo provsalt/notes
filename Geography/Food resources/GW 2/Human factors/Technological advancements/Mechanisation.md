@@ -1,0 +1,2 @@
+Mechanisation is the use of machinery to replace traditional intensive labour. This speeds up the process of preparing the land and harvesting crops more efficiently with less labour required which allows more time to be spent on growing crops instead, increasing yield.
+However due to mechanisation, there will be less jobs due to the displacement of labour where machines take over the jobs the workers.
