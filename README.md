@@ -1,9 +1,12 @@
 # Notes
+Objective: Get all SEAB-Cambridge GCE O level notes done for students in Singapore, free and open source to be able to learn from one another. If you have something to contribute, feel free to open a PR!
+
+## Setup instructions
 To start, git clone this repository
 ```bash
 git clone "https://github.com/provsalt/notes"
 ```
-Next,  use your favourite mark down editor, I use obsidian which has included plugins and themes in this repository
+Next,  use your favourite markdown editor, I use obsidian
 
 You're ready to rock and roll
 

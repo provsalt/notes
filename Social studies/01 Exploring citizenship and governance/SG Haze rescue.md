@@ -1,5 +1,8 @@
 ---
 Tags: ["SS"]
+sr-due: 2022-10-31
+sr-interval: 3
+sr-ease: 252
 ---
 # SG Haze rescue
 - SG Haze rescue was an informal group started by Mr Jeremy Chua during the haze period in June 2013 on a Facebook page called SG Haze Rescue.

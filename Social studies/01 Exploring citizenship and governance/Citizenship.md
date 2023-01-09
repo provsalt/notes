@@ -1,5 +1,8 @@
 ---
-Tags: ["SS"]
+Tags: ss
+sr-due: 2022-11-01
+sr-interval: 4
+sr-ease: 270
 ---
 # Citizenship
 ## Definition

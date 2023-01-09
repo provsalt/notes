@@ -1,5 +1,8 @@
 ---
 Tags: ["SS"]
+sr-due: 2022-11-01
+sr-interval: 4
+sr-ease: 270
 ---
 # Advancement in technology
 Advancements in technology allows us to communicate easier on our mobile phones with the help of internet access becoming available due to globalisation.

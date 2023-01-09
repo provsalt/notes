@@ -1,3 +1,9 @@
+---
+sr-due: 2022-11-01
+sr-interval: 4
+sr-ease: 270
+---
+
 # 2.1 Trade-offs
 #ss
 It's hard to define what is good for the society and at times, trade-offs has to be made to select what is good for society as a whole to get more benefits vs the cost

@@ -19,7 +19,7 @@ Gateway 2: The structures formed and the benefits and risks of living near these
 Gateway 3: The preparedness measures and the responses with living in an earthquake prone area.
 [[Land use regulations]]
 [[Emergency drills]]
-[[Infrastructure]]
+[[00 Secondary school/Geography/Tectonic hazards/GW 3/Preparedness measures/Infrastructure]]
 [[Land use regulations]]
 [[Earthquake and tsunami warning systems]]
 [[Short term responses]]

@@ -1,5 +1,8 @@
 ---
 Tags: ["SS"]
+sr-due: 2022-10-31
+sr-interval: 3
+sr-ease: 250
 ---
 # What is globalisation
 Globalisation is is the process where the world becomes more integrated and interconnected which leads to interdependent relationships between countries.

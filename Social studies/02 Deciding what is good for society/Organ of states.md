@@ -1,5 +1,8 @@
 ---
 Tags: ss
+sr-due: 2022-10-31
+sr-interval: 3
+sr-ease: 250
 ---
 # Singapore organ of state
 Idea of [[Constitution]] applies for the parties listed here as well

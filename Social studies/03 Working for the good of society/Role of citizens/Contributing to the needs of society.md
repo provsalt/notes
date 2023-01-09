@@ -1,5 +1,8 @@
 ---
 Tags: ["SS"]
+sr-due: 2022-11-04
+sr-interval: 5
+sr-ease: 248
 ---
 # Contributing to the needs of society
 Citizens can either contribute as an individual or through [[Groups]] as well as influencing government policies through platforms such as online and offline communication channels.
@@ -16,5 +19,4 @@ Citizens can either contribute as an individual or through [[Groups]] as well as
 ## Role of groups
 There are two different types of groups citizens can contribute towards, an [[Groups#Organized Groups]]
 
-## How does this increase sense of belonging?
-Citizens are more involved in the sharing and discussion of the future of Singapore and feel a sense of belonging when they are listened to.
+This leads to citizens who are more involved in the sharing and discussion of the future of Singapore and feel a sense of belonging when they are listened to.

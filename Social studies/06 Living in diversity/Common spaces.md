@@ -1,5 +1,8 @@
 ---
 Tags: ["SS"]
+sr-due: 2022-10-31
+sr-interval: 2
+sr-ease: 230
 ---
 # Common spaces
 Common space refers to a physical space where shared values and common experiences which provide more social interactions that strengthens our national identity. This leads to more sense of belonging.

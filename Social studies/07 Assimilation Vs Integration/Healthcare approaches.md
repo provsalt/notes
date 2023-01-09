@@ -1,5 +1,8 @@
 ---
 Tags: ["SS"]
+sr-due: 2022-11-01
+sr-interval: 4
+sr-ease: 272
 ---
 # Healthcare approach
 There are 3 ways to manage and respond to healthcare
@@ -25,7 +28,7 @@ Eg: Mark Cuban in 2022 launched the [Cost Plus Drugs Store](https://en.wikipedia
 This approach is usually used in Europe, particularly the Nordic countries such as Sweden where healthcare is fully subsidies by the government for the citizens as they belief that all citizens should have access to healthcare regardless of their background.
 
 However these comes with [[Trade offs]] where there'll be high taxation rate in the country to keep up with the free healthcare they offer.
-Due to [[Globalisation]], citizens from the EU are also eligible which places a strain on countries like Sweden.
+Due to [[Globalisation]], citizens from the EU are also eligible which places a strain on the economy of countries like Sweden.
 Aging population may also cause more taxation for the working people which may cause them to leave the country, leading to brain drain.
 
 ## Shared responsibilities

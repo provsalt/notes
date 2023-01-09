@@ -1,5 +1,8 @@
 ---
 Tags: SS
+sr-due: 2022-11-01
+sr-interval: 4
+sr-ease: 270
 ---
 # Gross domestic product
 **Gross domestic product** (**GDP**) is how much a place produces in an amount of time. GDP can be calculated by adding up its output inside the borders of that country. This is flawed as china has a lot more population and therefore GDP calculations will be very high. 

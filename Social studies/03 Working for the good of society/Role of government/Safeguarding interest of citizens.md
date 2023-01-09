@@ -1,5 +1,8 @@
 ---
 Tags: ["SS"]
+sr-due: 2022-11-01
+sr-interval: 2
+sr-ease: 210
 ---
 # Safeguarding the interests of citizens
 Government implements [[Organ of states#Legislature]] that will safeguard the interest of citizens to ensure that they will have a sense of security of living in the country
@@ -16,4 +19,3 @@ Government implements [[Organ of states#Legislature]] that will safeguard the in
 4.  To address the issue, CPF LIFE was introduced in 2009 to provide Singaporeans with a lifelong monthly pay out in retirement to give them a greater peace of mind in retirement
 5.  Together with the risk-free interest paid by the government, CPF helps Singaporeans to stretch their retirement savings for as long as they live. 
 6.  Therefore, as the government helps to reduce the stress that retirees may feel due to monetary issues, the government is working for the good of the society by safeguarding their interests and spending resources and coming up with schemes in order to help the citizens.
-

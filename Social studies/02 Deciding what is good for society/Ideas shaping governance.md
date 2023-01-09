@@ -21,7 +21,6 @@ will not lose out due to malaysia not selling water to SG
 
 ### Integrated resorts
 Economic tensions vs Social tensions
-
 - The government was aware of the social consequences such as gambling addictions and implemented measures to curtail the potential impact of problem gambling.
 - If they built integrated resorts, they'll be able to earn more money from rich tourist who are looking to gamble their money in casinos
 

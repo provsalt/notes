@@ -1,5 +1,8 @@
 ---
 Tags: ["SS"]
+sr-due: 2022-10-31
+sr-interval: 2
+sr-ease: 230
 ---
 # Managing Internal order and external securities
 ## Internal order

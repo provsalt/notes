@@ -10,7 +10,8 @@ Increase the allowance from last year
 |      | Dr Impairment loss on TR         | 500 |      |
 |      | Cr Allowance of impairment of TR |      | 500 |
 How to remember: Impairment is debit nature, hence debit to increase the impairment.
-Reduce allowance from last year. Estimated decreased.
+
+Reduce allowance from last year. When estimates decrease.
 | Date | Particulars                             | Dr  | Cr  |
 | ---- | --------------------------------------- | --- | --- |
 | 20x1 |                                         | $   | $   |
